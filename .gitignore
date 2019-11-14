@@ -1,23 +1,2265 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+<?xml version="1.0" encoding="UTF-16"?>
+<xml id="questions_answers" survey_name="p76665_1_vietnam_test|v01" quota_combined_surveys="" quota_value="-1" quota_fullScript="" survey_hint="" progress_bar="" length="0" source_id="1" country_id="227" language_id="168" upload_count="548" save_count="5" project_id="111025" project_nr="p76665" survey_template="2" desktop_support="true" mobile_support="false" tablet_support="false" WebsurveyBuilder="v6.00">
+	<page_data order_no="1" name="Q" type="items_list" internal_id="1">
+		<page_data_item name="Q" type="radio">
+			<question id="65475">[INVISIBLE]_AND_FORCE_ID=65475;impossible_routing</question>
+			<answer id="1" order_no="1">[INVISIBLE]impossible_routing_answer</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="Quote">
+			<question id="1" extralabel="SCREENING | INTRODUCTION"></question>
+			<answer id="1" order_no="1">_AND_lt;b_AND_gt;Chào mừng bạn đến với khảo sát này!_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Trong khảo sát này, chúng tôi muốn biết ý kiến của bạn và sẽ đặt ra một số câu hỏi về lý lịch của bạn. Kết quả từ nghiên cứu này sẽ chỉ được sử dụng cho mục đích nghiên cứu thị trường. Dữ liệu cá nhân được xử lý nặc danh và sẽ chỉ được chia sẻ với người khác khi được sự cho phép rõ ràng của bạn. Nghiên cứu được thực hiện bởi công ty nghiên cứu thị trường độc lập, MetrixLab. Thông tin thu thập được sẽ được lưu trữ trong suốt thời gian nghiên cứu này và bị xóa sau khi hoàn thành cuộc nghiên cứu. Chúng tôi giải thích mọi thông tin về việc chúng tôi xử lý dữ liệu của bạn và các quyền riêng tư của bạn như thế nào trong các chính sách về quyền riêng tư của chúng tôi đối với thành viên ban Opinion Bar và thành viên các ban khác. _AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Bằng cách nhấp vào nút tiếp tục, bạn xác nhận sự chấp nhận của bạn._AND_lt;/i_AND_gt;_AND_lt;BR /_AND_gt;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="Quotafull-Multisource">
+			<question id="2" count="960">QuotaFull-Multisource</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/quota-full?vnrsid=_AND_EMAIL_ADDRESS;" counts="230">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=q" counts="270">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdA==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;" counts="300">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/QuotaFull?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8" counts="160">CINT</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="999">_AND_FORCE_ID=999;Vendor Variable</question>
+			<answer id="1" order_no="1">Vina</answer>
+			<answer id="2" order_no="2">Rakuten</answer>
+			<answer id="3" order_no="3">IPO</answer>
+			<answer id="4" order_no="4">CINT</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="1230000001">_AND_FORCE_ID=1230000001;Device</question>
+			<answer id="1101" order_no="1">_AND_FORCE_ID=1101;PC</answer>
+			<answer id="1102" order_no="2">_AND_FORCE_ID=1102;Mobile</answer>
+			<answer id="1103" order_no="3">_AND_FORCE_ID=1103;Tablet</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="2" name="Q" type="items_list" internal_id="2">
+		<page_data_item name="Q" type="text">
+			<header extralabel="SCREENING | INTRODUCTION">Với nghiên cứu này, chúng tôi đang tìm một nhóm đối tượng riêng, do đó trong khảo sát này có một số câu hỏi chọn lọc._AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Nếu bạn thuộc nhóm đối tượng của chúng tôi, bạn sẽ tự động được chuyển hướng đến khảo sát chính. Khảo sát chính sẽ mất khoảng 10 phút để hoàn thành. _AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Chúc may mắn! Nhấp vào mũi tên bên dưới để bắt đầu._AND_lt;/i_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="3" name="Q" type="items_list" internal_id="3">
+		<page_data_item name="Q" type="uniqueness_lowquality_redirects">
+			<question id="3">Uniqueness Lowquality Redirects</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/unqualify?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=s">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/EarlyScreenOut?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt; Vui lòng nhấp vào mũi tên để tiếp tục. _AND_lt;/i_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="4" name="Q" type="items_list" internal_id="4">
+		<page_data_item name="Q" type="text">
+			<header>[INVISIBLE]METRIXLAB EXPLANATION - DEVICE:_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;ONLY ALLOW APPROPRIATE DEVICES IN THE SURVEY - AT THIS MOMENT TABLET AND MOBILE USERS ARE ASKED TO SWITCH TO PC OR LAPTOP</header>
+		</page_data_item>
+		<page_data_item name="Q" type="mobile_check">
+			<question id="994001" extralabel="Device check">_AND_FORCE_ID=994001;Quan trọng là bạn phải thực hiện khảo sát này trên máy tính để bàn. Hãy mở lại cùng liên kết khi bạn sử dụng máy tính để bàn.</question>
+			<answer id="1" order_no="1" allow_mobile="False" allow_pc="true">a1</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="5" name="Q" type="items_list" internal_id="5">
+		<page_data_item name="Q" type="hidden">
+			<question id="564" extralabel="Device Help">_AND_FORCE_ID=564;Device Help</question>
+			<answer id="1" order_no="1">PC and Tablet_AND_lt;BR /_AND_gt;_AND_SELECTED_Q1230000001_A1101;_AND_SELECTED_Q1230000001_A1103;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_consideration_desk;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_desktop;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_3_You can drag multiple ads into the same box. Click on the magnifying glass to enlarge.;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_4_680px;</answer>
+			<answer id="2" order_no="2">Mobile_AND_lt;BR /_AND_gt;_AND_SELECTED_Q1230000001_A1102;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_consideration_mob;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_mobile;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_3_Click on the magnifying glass to enlarge.;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_4_300px;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="6" name="Q" type="items_list" internal_id="6">
+		<page_data_item name="Q" type="captcha">
+			<question id="4"></question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="7" name="Q" type="items_list" internal_id="7">
+		<page_data_item name="Q" type="Gender">
+			<question id="8000" extralabel="SCREENING | GENDER">_AND_FORCE_ID=8000;_AND_lt;b_AND_gt;Vui lòng cho biết giới tính của bạn?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Bạn có thể chọn câu trả lời bằng cách nhấp vào hình ảnh. _AND_lt;/i_AND_gt;_AND_lt;BR /_AND_gt;</question>
+			<answer id="1" order_no="1">Male</answer>
+			<answer id="2" order_no="2">Female</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="dropdown">
+			<question id="8001" extralabel="SCREENING | AGE">_AND_FORCE_ID=8001;_AND_lt;b_AND_gt;Vui lòng cho biết tuổi của bạn?_AND_lt;/b_AND_gt;</question>
+			<answer id="1" order_no="1">Dưới 18 tuổi</answer>
+			<answer id="2" order_no="2">18 tuổi</answer>
+			<answer id="3" order_no="3">19 tuổi</answer>
+			<answer id="4" order_no="4">20 tuổi</answer>
+			<answer id="5" order_no="5">21 tuổi</answer>
+			<answer id="6" order_no="6">22 tuổi</answer>
+			<answer id="7" order_no="7">23 tuổi</answer>
+			<answer id="8" order_no="8">24 tuổi</answer>
+			<answer id="9" order_no="9">25 tuổi</answer>
+			<answer id="10" order_no="10">26 tuổi</answer>
+			<answer id="11" order_no="11">27 tuổi</answer>
+			<answer id="12" order_no="12">28 tuổi</answer>
+			<answer id="13" order_no="13">29 tuổi</answer>
+			<answer id="14" order_no="14">30 tuổi</answer>
+			<answer id="15" order_no="15">31 tuổi</answer>
+			<answer id="16" order_no="16">32 tuổi</answer>
+			<answer id="17" order_no="17">33 tuổi</answer>
+			<answer id="18" order_no="18">34 tuổi</answer>
+			<answer id="19" order_no="19">35 tuổi</answer>
+			<answer id="20" order_no="20">36 tuổi</answer>
+			<answer id="21" order_no="21">37 tuổi</answer>
+			<answer id="22" order_no="22">38 tuổi</answer>
+			<answer id="23" order_no="23">39 tuổi</answer>
+			<answer id="24" order_no="24">40 tuổi</answer>
+			<answer id="25" order_no="25">41 tuổi</answer>
+			<answer id="26" order_no="26">42 tuổi</answer>
+			<answer id="27" order_no="27">43 tuổi</answer>
+			<answer id="28" order_no="28">44 tuổi</answer>
+			<answer id="29" order_no="29">45 tuổi</answer>
+			<answer id="30" order_no="30">46 tuổi</answer>
+			<answer id="31" order_no="31">47 tuổi</answer>
+			<answer id="32" order_no="32">48 tuổi</answer>
+			<answer id="33" order_no="33">49 tuổi</answer>
+			<answer id="34" order_no="34">50 tuổi</answer>
+			<answer id="35" order_no="35">51 tuổi</answer>
+			<answer id="36" order_no="36">52 tuổi</answer>
+			<answer id="37" order_no="37">53 tuổi</answer>
+			<answer id="38" order_no="38">54 tuổi</answer>
+			<answer id="39" order_no="39">55 tuổi</answer>
+			<answer id="40" order_no="40">56 tuổi</answer>
+			<answer id="41" order_no="41">57 tuổi</answer>
+			<answer id="42" order_no="42">58 tuổi</answer>
+			<answer id="43" order_no="43">59 tuổi</answer>
+			<answer id="44" order_no="44">60 tuổi</answer>
+			<answer id="45" order_no="45">61 tuổi</answer>
+			<answer id="46" order_no="46">62 tuổi</answer>
+			<answer id="47" order_no="47">63 tuổi</answer>
+			<answer id="48" order_no="48">64 tuổi</answer>
+			<answer id="49" order_no="49">65 tuổi</answer>
+			<answer id="50" order_no="50">66 tuổi</answer>
+			<answer id="51" order_no="51">67 tuổi</answer>
+			<answer id="52" order_no="52">68 tuổi</answer>
+			<answer id="53" order_no="53">69 tuổi</answer>
+			<answer id="54" order_no="54">70 tuổi trở lên</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="8" name="Q" type="items_list" internal_id="8">
+		<page_data_item name="Q" type="Ineligible-Multisource">
+			<question id="5"></question>
+		</page_data_item>
+		<page_data_item name="Q" type="Screenout-Multisource">
+			<question id="6">Screenout multisource</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/unqualify?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=s">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/EarlyScreenOut?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="9" name="Q" type="items_list" internal_id="9">
+		<page_data_item name="Q" type="Ineligible-Multisource">
+			<question id="7"></question>
+		</page_data_item>
+		<page_data_item name="Q" type="Screenout-Multisource">
+			<question id="8">Screenout multisource</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/unqualify?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=s">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/EarlyScreenOut?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="10" name="Q" type="items_list" internal_id="10">
+		<page_data_item name="Q" type="hidden">
+			<question id="80010" extralabel="SCREENING | AGE_RECODE">_AND_FORCE_ID=80010;Age variable</question>
+			<answer id="1" order_no="1">18-34 years_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A3;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A4;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A5;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A6;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A7;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A8;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A9;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A10;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A11;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A12;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A13;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A14;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A15;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A16;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A17;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A18;_AND_lt;BR /_AND_gt;_AND_QUOTA_COMPLETES_Q80010_1_480;</answer>
+			<answer id="2" order_no="2">35+ years_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A19;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A20;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A21;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A22;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A23;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A24;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A25;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A26;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A27;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A28;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A29;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A30;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A31;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A32;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A33;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A34;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A35;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A36;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A37;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A38;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A39;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A40;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A41;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A42;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A43;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A44;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A45;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A46;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A47;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A48;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A49;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A50;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A51;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A52;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A53;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8001_A54;_AND_lt;BR /_AND_gt;_AND_QUOTA_COMPLETES_Q80010_2_480;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="11" name="Q" type="items_list" internal_id="11">
+		<page_data_item name="Q" type="Ineligible-Multisource">
+			<question id="9"></question>
+		</page_data_item>
+		<page_data_item name="Q" type="Screenout-Multisource">
+			<question id="10">Screenout multisource</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/unqualify?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=s">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/EarlyScreenOut?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="12" name="Q" type="items_list" internal_id="12">
+		<page_data_item name="Q" type="checkbox">
+			<question id="8020" extralabel="LSM Question 01">_AND_FORCE_ID=8020;_AND_lt;b_AND_gt;Nhà bạn có những tiện nghi nào sau đây?_AND_lt;/b_AND_gt;</question>
+			<answer id="1" order_no="1">Điện</answer>
+			<answer id="2" order_no="2">Bồn cầu có bệ / không bệ</answer>
+			<answer id="3" order_no="3" exclusive="true">Không có mục nào bên trên</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="13" name="Q" type="items_list" internal_id="13">
+		<page_data_item name="Q" type="checkbox">
+			<question id="8021" extralabel="LSM Question 02">_AND_FORCE_ID=8021;_AND_lt;b_AND_gt;Nhà bạn có những thiết bị nào sau đây đang hoạt động tốt?_AND_lt;/b_AND_gt;</question>
+			<answer id="1" order_no="1">Máy hút bụi</answer>
+			<answer id="2" order_no="2">Lò vi ba</answer>
+			<answer id="3" order_no="3">Hệ thống định hướng xe điện tử ("Định Hướng Vệ Tinh")/Hệ thống GPS</answer>
+			<answer id="4" order_no="4">Máy giặt</answer>
+			<answer id="5" order_no="5">Máy nghe nhạc MP3/Ipod</answer>
+			<answer id="6" order_no="6">Bồn rửa bát</answer>
+			<answer id="7" order_no="7">Bàn ăn</answer>
+			<answer id="8" order_no="8">TV màu LCD/Plasma</answer>
+			<answer id="9" order_no="9">Máy tính xách tay</answer>
+			<answer id="10" order_no="10">Máy rửa chén</answer>
+			<answer id="11" order_no="11" exclusive="true">Không có mục nào bên trên</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="14" name="Q" type="items_list" internal_id="14">
+		<page_data_item name="Q" type="hidden">
+			<question id="80199" extralabel="Tree selection">_AND_FORCE_ID=80199;Tree selection_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Electricity (Yes)_AND_EXCLUDED_Q8020_NA1;</answer>
+			<answer id="2" order_no="2">Electricity (No)_AND_EXCLUDED_Q8020_A1;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="15" name="Q" type="items_list" internal_id="15">
+		<page_data_item name="Q" type="hidden">
+			<question id="80200" extralabel="Electricity (Yes)">_AND_FORCE_ID=80200;Electricity (Yes)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Vacuum cleaner (Yes)_AND_EXCLUDED_Q8021_NA1;</answer>
+			<answer id="2" order_no="2">Vacuum cleaner (No)_AND_EXCLUDED_Q8021_A1;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="16" name="Q" type="items_list" internal_id="16">
+		<page_data_item name="Q" type="hidden">
+			<question id="80210" extralabel="Vaccum Cleaner YES">_AND_FORCE_ID=80210;Vacuum cleaner (Yes)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Electronic car navigation system ('Sat Nav")/GPS (Yes) _AND_EXCLUDED_Q8021_NA3;</answer>
+			<answer id="2" order_no="2">Electronic car navigation system ('Sat Nav")/GPS (No) _AND_EXCLUDED_Q8021_A3;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="17" name="Q" type="items_list" internal_id="17">
+		<page_data_item name="Q" type="hidden">
+			<question id="80211" extralabel="('Sat Nav&quot;)/GPS (Yes)">_AND_FORCE_ID=80211;('Sat Nav")/GPS (Yes) _AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">MP3 players / iPods (Yes)_AND_EXCLUDED_Q8021_NA5;</answer>
+			<answer id="2" order_no="2">MP3 players / iPods (No)_AND_EXCLUDED_Q8021_A5;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="18" name="Q" type="items_list" internal_id="18">
+		<page_data_item name="Q" type="hidden">
+			<question id="80221" extralabel="('Sat Nav&quot;)/GPS (No)">_AND_FORCE_ID=80221;('Sat Nav")/GPS (No) _AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Microwave oven (Yes)_AND_EXCLUDED_Q8021_NA2;</answer>
+			<answer id="2" order_no="2">Microwave oven (No)_AND_EXCLUDED_Q8021_A2;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="19" name="Q" type="items_list" internal_id="19">
+		<page_data_item name="Q" type="hidden">
+			<question id="80222" extralabel="Microwave oven (Yes)">_AND_FORCE_ID=80222;Microwave oven (Yes)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">MP3 players / iPods (Yes)_AND_EXCLUDED_Q8021_NA5;</answer>
+			<answer id="2" order_no="2">MP3 players / iPods (No)_AND_EXCLUDED_Q8021_A5;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="20" name="Q" type="items_list" internal_id="20">
+		<page_data_item name="Q" type="hidden">
+			<question id="80231" extralabel="MP3 players / iPods (Yes)">_AND_FORCE_ID=80231;MP3 players / iPods (Yes)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Dishwasher (Yes)_AND_EXCLUDED_Q8021_NA10;</answer>
+			<answer id="2" order_no="2">Dishwasher (No)_AND_EXCLUDED_Q8021_A10;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="21" name="Q" type="items_list" internal_id="21">
+		<page_data_item name="Q" type="hidden">
+			<question id="80232" extralabel="Dishwasher (Yes)">_AND_FORCE_ID=80232;Dishwasher (Yes)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Flushing toilet (Yes)_AND_EXCLUDED_Q8020_NA2;</answer>
+			<answer id="2" order_no="2">Flushing toilet (No)_AND_EXCLUDED_Q8020_A2;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="22" name="Q" type="items_list" internal_id="22">
+		<page_data_item name="Q" type="hidden">
+			<question id="80300" extralabel="Vaccum Cleaner NO">_AND_FORCE_ID=80300;Vaccum Cleaner NO_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Microwave oven (Yes)_AND_EXCLUDED_Q8021_NA2;</answer>
+			<answer id="2" order_no="2">Microwave oven (No)_AND_EXCLUDED_Q8021_A2;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="23" name="Q" type="items_list" internal_id="23">
+		<page_data_item name="Q" type="hidden">
+			<question id="80311" extralabel="Microwave oven YES">_AND_FORCE_ID=80311;Microwave oven YES_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Sat Nav/GPS (Yes) _AND_EXCLUDED_Q8021_NA3;</answer>
+			<answer id="2" order_no="2">Sat Nav/GPS (No) _AND_EXCLUDED_Q8021_A3;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="24" name="Q" type="items_list" internal_id="24">
+		<page_data_item name="Q" type="hidden">
+			<question id="80301" extralabel="Sat Nav/GPS (No)">_AND_FORCE_ID=80301;Sat Nav/GPS (No) _AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Color TVs LCD / Plasma TV (Yes)_AND_EXCLUDED_Q8021_NA8;</answer>
+			<answer id="2" order_no="2">Color TVs LCD / Plasma TV (No)_AND_EXCLUDED_Q8021_A8;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="25" name="Q" type="items_list" internal_id="25">
+		<page_data_item name="Q" type="hidden">
+			<question id="80401" extralabel="Microwave oven (No)">_AND_FORCE_ID=80401;Microwave oven (No)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Washing machine (Yes)_AND_EXCLUDED_Q8021_NA4;</answer>
+			<answer id="2" order_no="2">Washing machine (No)_AND_EXCLUDED_Q8021_A4;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="26" name="Q" type="items_list" internal_id="26">
+		<page_data_item name="Q" type="hidden">
+			<question id="80402" extralabel="Washing machine (Yes)">_AND_FORCE_ID=80402;Washing machine (Yes)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Dining table (Yes)_AND_EXCLUDED_Q8021_NA7;</answer>
+			<answer id="2" order_no="2">Dining table (No)_AND_EXCLUDED_Q8021_A7;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="27" name="Q" type="items_list" internal_id="27">
+		<page_data_item name="Q" type="hidden">
+			<question id="80403" extralabel="Dining table (No)">_AND_FORCE_ID=80403;Dining table (No)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Kitchen sink (Yes)_AND_EXCLUDED_Q8021_NA6;</answer>
+			<answer id="2" order_no="2">Kitchen sink (No)_AND_EXCLUDED_Q8021_A6;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="28" name="Q" type="items_list" internal_id="28">
+		<page_data_item name="Q" type="hidden">
+			<question id="80404" extralabel="Kitchen sink (Yes)">_AND_FORCE_ID=80404;Kitchen sink (Yes)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Colour LCD/Plasma TV (Yes)_AND_EXCLUDED_Q8021_NA8;</answer>
+			<answer id="2" order_no="2">Colour LCD/Plasma TV (No)_AND_EXCLUDED_Q8021_A8;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="29" name="Q" type="items_list" internal_id="29">
+		<page_data_item name="Q" type="hidden">
+			<question id="80504" extralabel="Washing machine (No)">_AND_FORCE_ID=80504;Washing machine (No)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Kitchen sink (Yes)_AND_EXCLUDED_Q8021_NA6;</answer>
+			<answer id="2" order_no="2">Kitchen sink (No)_AND_EXCLUDED_Q8021_A6;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="30" name="Q" type="items_list" internal_id="30">
+		<page_data_item name="Q" type="hidden">
+			<question id="80505" extralabel="Kitchen sink (No)">_AND_FORCE_ID=80505;Kitchen sink (No)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Dining table (Yes)_AND_EXCLUDED_Q8021_NA7;</answer>
+			<answer id="2" order_no="2">Dining table (No)_AND_EXCLUDED_Q8021_A7;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="31" name="Q" type="items_list" internal_id="31">
+		<page_data_item name="Q" type="hidden">
+			<question id="80506" extralabel="Dining table (Yes)">_AND_FORCE_ID=80506;Dining table (Yes)_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Laptop (Yes)_AND_EXCLUDED_Q8021_NA9;</answer>
+			<answer id="2" order_no="2">Laptop (No)_AND_EXCLUDED_Q8021_A9;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="32" name="Q" type="items_list" internal_id="32">
+		<page_data_item name="Q" type="hidden">
+			<question id="80212" extralabel="Group 16-19">_AND_FORCE_ID=80212;Group 16-19_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Group 16-19</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="33" name="Q" type="items_list" internal_id="33">
+		<page_data_item name="Q" type="hidden">
+			<question id="80213" extralabel="Group 10-15">_AND_FORCE_ID=80213;Group 10-15_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Group 10-15</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="34" name="Q" type="items_list" internal_id="34">
+		<page_data_item name="Q" type="hidden">
+			<question id="80214" extralabel="Group 0-4">_AND_FORCE_ID=80214;Group 0-4_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Group 0-4</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="35" name="Q" type="items_list" internal_id="35">
+		<page_data_item name="Q" type="hidden">
+			<question id="80215" extralabel="Group 5-9">_AND_FORCE_ID=80215;Group 5-9_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Group 5-9</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="36" name="Q" type="items_list" internal_id="36">
+		<page_data_item name="Q" type="hidden">
+			<question id="80216" extralabel="Final Group punch variable">_AND_FORCE_ID=80216;Final Group punch variable</question>
+			<answer id="1" order_no="1">0-4_AND_SELECTED_Q80214_A1;</answer>
+			<answer id="2" order_no="2">5-9_AND_SELECTED_Q80215_A1;</answer>
+			<answer id="3" order_no="3">10-15_AND_SELECTED_Q80213_A1;</answer>
+			<answer id="4" order_no="4">16-19_AND_SELECTED_Q80212_A1;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="37" name="Q" type="items_list" internal_id="37">
+		<page_data_item name="Q" type="Ineligible-Multisource">
+			<question id="11"></question>
+		</page_data_item>
+		<page_data_item name="Q" type="Screenout-Multisource">
+			<question id="12">Screenout multisource</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/unqualify?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=s">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/EarlyScreenOut?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="38" name="Q" type="items_list" internal_id="38">
+		<page_data_item name="Q" type="hidden">
+			<question id="802161" extralabel="LSM variable">LSM variable_AND_FORCE_ID=802161;</question>
+			<answer id="1" order_no="1">10-15_AND_SELECTED_Q80216_A3;</answer>
+			<answer id="2" order_no="2">16-19_AND_SELECTED_Q80216_A4;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="39" name="Q" type="items_list" internal_id="39">
+		<page_data_item name="Q" type="hidden">
+			<question id="1234" extralabel="Age and LSM balancing">_AND_FORCE_ID=1234;Age and LSM balancing_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">18-34 years_AND_lt;BR /_AND_gt; 10-15_AND_EXCLUDED_Q80010_NA1;_AND_EXCLUDED_Q802161_NA1;</answer>
+			<answer id="2" order_no="2">18-34 years_AND_lt;BR /_AND_gt; 16-19_AND_EXCLUDED_Q80010_NA1;_AND_EXCLUDED_Q802161_NA2;</answer>
+			<answer id="3" order_no="3">35+ years_AND_lt;BR /_AND_gt; 10-15_AND_EXCLUDED_Q80010_NA2;_AND_EXCLUDED_Q802161_NA1;</answer>
+			<answer id="4" order_no="4">35+ years_AND_lt;BR /_AND_gt; 16-19_AND_EXCLUDED_Q80010_NA2;_AND_EXCLUDED_Q802161_NA2;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="40" name="Q" type="items_list" internal_id="40">
+		<page_data_item name="Q" type="radio">
+			<question id="90010" extralabel="SCREENING | PERSONAL CARE PRODUCTS ">_AND_FORCE_ID=90010;_AND_lt;b_AND_gt;Hiện nay bạn có sử dụng các sản phẩm chăm sóc cá nhân không? (ví dụ như các sản phẩm chăm sóc da, chăm sóc tóc)_AND_lt;/b_AND_gt;</question>
+			<answer id="1" order_no="1">Có</answer>
+			<answer id="2" order_no="2">Không</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="41" name="Q" type="items_list" internal_id="41">
+		<page_data_item name="Q" type="Ineligible-Multisource">
+			<question id="13"></question>
+		</page_data_item>
+		<page_data_item name="Q" type="Screenout-Multisource">
+			<question id="14">Screenout multisource</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/unqualify?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=s">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/EarlyScreenOut?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="42" name="Q" type="items_list" internal_id="42">
+		<page_data_item name="Q" type="text">
+			<header extralabel="SCREENING | HAIR/SCALP CONCERNED">_AND_lt;b_AND_gt;Bạn có gặp bất kỳ vấn đề nào với tóc/da đầu nào trong _AND_lt;u_AND_gt;6 tháng vừa qua_AND_lt;/u_AND_gt;không?_AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="radiogroup">
+			<question id="4001">_AND_FORCE_ID=4001;Gàu_AND_RANDOMISE_QUESTIONS;</question>
+			<question id="5001">_AND_FORCE_ID=5001;Da đầu nhiều dầu</question>
+			<question id="6001">_AND_FORCE_ID=6001;Ngứa da đầu</question>
+			<question id="7001">_AND_FORCE_ID=7001;Da đầu nhiều mỡ</question>
+			<question id="9001">_AND_FORCE_ID=9001;Da đầu khô</question>
+			<answer id="1" order_no="1">Có</answer>
+			<answer id="2" order_no="2">Không</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="43" name="Q" type="items_list" internal_id="43">
+		<page_data_item name="Q" type="text">
+			<header extralabel="SCREENING | INTEREST INTRODUCTION">_AND_lt;b_AND_gt;Tiếp theo, chúng tôi muốn tìm hiểu thêm về sở thích của bạn. _AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Nhấp vào mũi tên bên dưới để tiếp tục. _AND_lt;/i_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="44" name="Q" type="items_list" internal_id="44">
+		<page_data_item name="Q" type="checkbox">
+			<question id="4003" extralabel=" SCREENING | INTERESTS">_AND_FORCE_ID=4003;_AND_lt;b_AND_gt;Bạn thường xuyên tham gia các hoạt động/sở thích nào sau đây?_AND_nbsp;_AND_nbsp;_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_RANDOMISE_ANSWERS;</question>
+			<answer id="1" order_no="1">Tập thể hình/ tập thể dục</answer>
+			<answer id="2" order_no="2">Làm đẹp</answer>
+			<answer id="3" order_no="3">Thời trang</answer>
+			<answer id="4" order_no="4">Nghệ thuật</answer>
+			<answer id="5" order_no="5">Âm nhạc</answer>
+			<answer id="6" order_no="6">Du lịch</answer>
+			<answer id="7" order_no="7" exclusive="true" notRandomised="true">Không có mục nào bên trên</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="45" name="Q" type="items_list" internal_id="45">
+		<page_data_item name="Q" type="radio">
+			<question id="4004" extralabel="SCREENING | FITNESS 1">_AND_FORCE_ID=4004;_AND_lt;b_AND_gt;Bạn có tìm kiếm các kế hoạch chế độ ăn hoặc chế độ tập thể dục trực tuyến không?_AND_lt;/b_AND_gt;</question>
+			<answer id="1" order_no="1">Có</answer>
+			<answer id="2" order_no="2">Không</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="46" name="Q" type="items_list" internal_id="46">
+		<page_data_item name="Q" type="checkbox">
+			<question id="4005" extralabel="SCREENING | FITNESS 2">_AND_FORCE_ID=4005;_AND_lt;b_AND_gt;Bạn tham gia các hoạt động/môn thể thao nào trong số này?_AND_lt;/b_AND_gt;_AND_RANDOMISE_ANSWERS;</question>
+			<answer id="1" order_no="1">Chạy/ đi bộ/ chạy bộ</answer>
+			<answer id="2" order_no="2">Tập thể dục ở phòng gym/ hiện tại có làm thành viên câu lạc bộ phòng gym</answer>
+			<answer id="3" order_no="3">Bơi lội</answer>
+			<answer id="4" order_no="4">Yoga</answer>
+			<answer id="5" order_no="5">Pilates</answer>
+			<answer id="6" order_no="6">Tennis/ cầu lông/ bóng quần (squash)/ bóng bàn</answer>
+			<answer id="7" order_no="7">Bóng đá</answer>
+			<answer id="8" order_no="8">Bóng rổ</answer>
+			<answer id="9" order_no="9" exclusive="true" notRandomised="true">Không có mục nào bên trên</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="47" name="Q" type="items_list" internal_id="47">
+		<page_data_item name="Q" type="text">
+			<header extralabel="SCREENING | FITNESS 3">_AND_lt;b_AND_gt;Bạn tham gia bất kỳ hoạt động nào trong số này bao nhiêu lần _AND_lt;u_AND_gt;trong một tuần?_AND_lt;/u_AND_gt;_AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="radiogroup">
+			<question id="4006">_AND_FORCE_ID=4006;Chạy/ đi bộ/ chạy bộ_AND_EXCLUDED_Q4005_NA1;</question>
+			<question id="5006">_AND_FORCE_ID=5006;Tập thể dục ở phòng gym/ hiện tại có làm thành viên câu lạc bộ phòng gym_AND_EXCLUDED_Q4005_NA2;</question>
+			<question id="6006">_AND_FORCE_ID=6006;Bơi lội_AND_EXCLUDED_Q4005_NA3;</question>
+			<question id="7006">_AND_FORCE_ID=7006;Yoga_AND_EXCLUDED_Q4005_NA4;</question>
+			<question id="8006">_AND_FORCE_ID=8006;Pilates_AND_EXCLUDED_Q4005_NA5;</question>
+			<question id="9006">_AND_FORCE_ID=9006;Tennis/ cầu lông/ bóng quần (squash)/ bóng bàn_AND_EXCLUDED_Q4005_NA6;</question>
+			<question id="10006">_AND_FORCE_ID=10006;Bóng đá_AND_EXCLUDED_Q4005_NA7;</question>
+			<question id="11006">_AND_FORCE_ID=11006;Bóng rổ_AND_EXCLUDED_Q4005_NA8;</question>
+			<answer id="1" order_no="1">3 lần trở lên mỗi tuần</answer>
+			<answer id="2" order_no="2">Một hoặc hai lần mỗi tuần</answer>
+			<answer id="3" order_no="3">Dưới một lần mỗi tuần</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="48" name="Q" type="items_list" internal_id="48">
+		<page_data_item name="Q" type="radio">
+			<question id="40061" extralabel="SCREENING | FITNESS 4">_AND_FORCE_ID=40061;_AND_lt;b_AND_gt;Bạn thực hiện theo một kế hoạch chế độ ăn có thường xuyên không?_AND_lt;/b_AND_gt;</question>
+			<answer id="1" order_no="1">Thường xuyên</answer>
+			<answer id="2" order_no="2">Thỉnh thoảng</answer>
+			<answer id="3" order_no="3">Hiếm khi</answer>
+			<answer id="4" order_no="4">Không bao giờ</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="49" name="Q" type="items_list" internal_id="49">
+		<page_data_item name="Q" type="radio">
+			<question id="4007" extralabel="SCREENING | BEAUTY 1">_AND_FORCE_ID=4007;_AND_lt;b_AND_gt;Bạn có sử dụng các thương hiệu sản phẩm làm đẹp hoặc chăm sóc da không?_AND_lt;/b_AND_gt;</question>
+			<answer id="1" order_no="1">Có</answer>
+			<answer id="2" order_no="2">Không</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="50" name="Q" type="items_list" internal_id="50">
+		<page_data_item name="Q" type="checkbox">
+			<question id="4008" extralabel="SCREENING | BEAUTY 2">_AND_FORCE_ID=4008;_AND_lt;b_AND_gt;Bạn có thực hiện bất kỳ hoạt động trực tuyến nào sau đây trong _AND_lt;u_AND_gt;1 tháng vừa qua_AND_lt;/u_AND_gt;không?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_RANDOMISE_ANSWERS;</question>
+			<answer id="1" order_no="1">_AND_NO_ANSWERS;</answer>
+			<answer id="2" order_no="2">Đọc các trang blog về lời khuyên liên quan đến phong cách_AND_START;</answer>
+			<answer id="3" order_no="3">Cập nhật thông tin và nhận thức về các nhãn thời trang phổ biến/mới</answer>
+			<answer id="4" order_no="4">Cập nhật thông tin và nhận thức về các xu hướng thời trang phổ biến/mới_AND_END;</answer>
+			<answer id="5" order_no="5">Mua sản phẩm của các thương hiệu làm đep mới về chăm sóc da, tóc, hoặc trang điểm_AND_EXCLUDED_Q4007_NA1;_AND_START;</answer>
+			<answer id="6" order_no="6">Theo dõi các (video) blogger/ người có ảnh hưởng liên quan đến làm đẹp và cập nhật thông tin về các thương hiệu mà họ giới thiệu_AND_EXCLUDED_Q4007_NA1;</answer>
+			<answer id="7" order_no="7">Đọc/ xem các bài đánh giá và/hoặc hướng dẫn làm đẹp (chăm sóc da, tóc, trang điểm)_AND_EXCLUDED_Q4007_NA1;_AND_END;</answer>
+			<answer id="8" order_no="8" exclusive="true" notRandomised="true">Không có mục nào bên trên</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="51" name="Q" type="items_list" internal_id="51">
+		<page_data_item name="Q" type="radio">
+			<question id="4009" extralabel="SCREENING | COMMUTE 1">_AND_FORCE_ID=4009;_AND_lt;b_AND_gt;Bạn có sử dụng xe máy để đi lại không?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Trường hợp này có thể là người điều khiển hoặc người ngồi sau. _AND_lt;/i_AND_gt;</question>
+			<answer id="1" order_no="1">Có</answer>
+			<answer id="2" order_no="2">Không</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="52" name="Q" type="items_list" internal_id="52">
+		<page_data_item name="Q" type="radio">
+			<question id="4010" extralabel="SCREENING | COMMUTE 2">_AND_FORCE_ID=4010;_AND_lt;b_AND_gt;Bạn đi lại bằng xe máy có thường xuyên không?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Trường hợp này có thể là người điều khiển hoặc người ngồi sau._AND_lt;/i_AND_gt;_AND_lt;BR /_AND_gt;</question>
+			<answer id="1" order_no="1">Hàng ngày</answer>
+			<answer id="2" order_no="2">2 hoặc 3 lần mỗi tuần</answer>
+			<answer id="3" order_no="3">Một lần mỗi tuần</answer>
+			<answer id="4" order_no="4">Dưới một lần mỗi tuần</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="53" name="Q" type="items_list" internal_id="53">
+		<page_data_item name="Q" type="hidden">
+			<question id="19000" extralabel="ALL DEFINITIONs_1">_AND_FORCE_ID=19000;ALL DEFINITIONs_1</question>
+			<answer id="1" order_no="1" extralabel="Hair/Scalp Concerned_def_1">Yes for at least one hair/scalp issue_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4001_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q5001_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q6001_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q7001_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q9001_A1;</answer>
+			<answer id="2" order_no="2" extralabel="Fitness_def_1">Searches for diet plans/exercise regimens online _AND_lt;BR /_AND_gt;_AND_SELECTED_Q4004_A1;</answer>
+			<answer id="3" order_no="3" extralabel="Fitness_def_2">Participates in at least one sport/activity weekly _AND_lt;BR /_AND_gt;_AND_SELECTED_Q4006_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4006_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q5006_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q5006_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q6006_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q6006_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q7006_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q7006_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8006_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8006_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q9006_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q9006_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q10006_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q10006_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q11006_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q11006_A2;</answer>
+			<answer id="4" order_no="4" extralabel="Fitness_def_3">Follows a diet plan regularly/ occasionally _AND_lt;BR /_AND_gt;_AND_SELECTED_Q40061_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q40061_A2;</answer>
+			<answer id="5" order_no="5" extralabel="Fashion/Beauty_def_1">Uses beauty/skincare brands and has done at least one of the beauty activities online _AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q4007_NA1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4008_A5;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4008_A6;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4008_A7;</answer>
+			<answer id="6" order_no="6" extralabel="Fashion/Beauty_def_2">Has done at least one of the fashion activities online _AND_lt;BR /_AND_gt;_AND_SELECTED_Q4008_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4008_A3;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4008_A4;</answer>
+			<answer id="7" order_no="7" extralabel="Commute_def_1">Travels around on a motorbike _AND_lt;BR /_AND_gt;_AND_SELECTED_Q4009_A1;</answer>
+			<answer id="8" order_no="8" extralabel="Commute_def_2">Travels on a motorbike at least once a week _AND_lt;BR /_AND_gt;_AND_SELECTED_Q4010_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4010_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4010_A3;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="54" name="Q" type="items_list" internal_id="54">
+		<page_data_item name="Q" type="hidden">
+			<question id="9000" extralabel="Segment DEFINITION_1">_AND_FORCE_ID=9000;Segment DEFINITION _1</question>
+			<answer id="1" order_no="1" extralabel="Hair/Scalp Concerned">Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_SELECTED_Q19000_A1;</answer>
+			<answer id="2" order_no="2" extralabel="Fitness">Fitness_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q19000_NA2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q19000_A3;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q19000_A4;</answer>
+			<answer id="3" order_no="3" extralabel="Fashion/Beauty">Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_SELECTED_Q19000_A5;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q19000_A6;</answer>
+			<answer id="4" order_no="4" extralabel="Commute">Commute_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q19000_NA7;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q19000_A8;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="55" name="Q" type="items_list" internal_id="55">
+		<page_data_item name="Q" type="hidden">
+			<question id="9991" extralabel="help variable if only Fitness got selected">_AND_FORCE_ID=9991;help variable if only Fitness got selected_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Only Fitness</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="56" name="Q" type="items_list" internal_id="56">
+		<page_data_item name="Q" type="hidden">
+			<question id="9992" extralabel="help variable if only Fashion/Beauty got selected">_AND_FORCE_ID=9992;help variable if only Fashion/Beauty got selected_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Only Fashion</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="57" name="Q" type="items_list" internal_id="57">
+		<page_data_item name="Q" type="checkbox">
+			<question id="4011" extralabel="SCREENING | SEGMENT RANK">_AND_FORCE_ID=4011;_AND_lt;b_AND_gt;Bạn đã đề cập rằng bạn quan tâm đến thời trang/làm đẹp và duy trì thể lực. Vui lòng đọc từng phát biểu sau đây và suy nghĩ về thái độ của bạn. Chọn 3 phát biểu hàng đầu mà _AND_lt;i_AND_gt;bạn đồng ý nhất_AND_lt;/i_AND_gt;. _AND_lt;/b_AND_gt;_AND_RANDOMISE_ANSWERS;</question>
+			<answer id="1" order_no="1" min="3" max="3" decimal="0">_AND_NO_ANSWERS;</answer>
+			<answer id="2" order_no="2" min="3" max="3" decimal="0">Tôi tin tưởng vào việc giữ dáng và/hoặc duy trì cân nặng của mình _AND_START;</answer>
+			<answer id="3" order_no="3" min="3" max="3" decimal="0">Tôi tin tưởng vào việc ăn uống đúng cách và/hoặc giữ gìn sức khỏe</answer>
+			<answer id="4" order_no="4" min="3" max="3" decimal="0">Việc giữ dáng giúp tôi cảm thấy tự tin_AND_END;</answer>
+			<answer id="5" order_no="5" min="3" max="3" decimal="0">Tôi tin tưởng vào việc đảm bảo có hình thức tốt nhất, hoặc là thông qua chăm sóc da/trang điểm hoặc là thông qua quần áo_AND_START;</answer>
+			<answer id="6" order_no="6" min="3" max="3" decimal="0">Cách tôi ăn mặc/hình thức của tôi phản ánh cá tính của tôi</answer>
+			<answer id="7" order_no="7" min="3" max="3" decimal="0">Điều quan trọng đối với tôi là bắt kịp các xu hướng mới nhất về chăm sóc da/thời trang_AND_END;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="58" name="Q" type="items_list" internal_id="58">
+		<page_data_item name="Q" type="hidden">
+			<question id="29010" extralabel="FITNESS_top3">_AND_FORCE_ID=29010;FITNESS_top3</question>
+			<answer id="1" order_no="1">staying fit/maintaining weight_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4011_A2;</answer>
+			<answer id="2" order_no="2">eating right/staying healthy_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4011_A3;</answer>
+			<answer id="3" order_no="3">Staying fit makes confident_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4011_A4;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="39010" extralabel="FASHION/BEAUTY_top3">_AND_FORCE_ID=39010;FASHION/BEAUTY_top3</question>
+			<answer id="1" order_no="1">looking my best_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4011_A5;</answer>
+			<answer id="2" order_no="2">way I dress_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4011_A6;</answer>
+			<answer id="3" order_no="3">keep up with the latest skincare/fashion trends_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4011_A7;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="59" name="Q" type="items_list" internal_id="59">
+		<page_data_item name="Q" type="hidden">
+			<question id="49010" extralabel="Fitness_top2/Fashion_top2">_AND_FORCE_ID=49010;Fitness_top2/Fashion_top2_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">FITNESS_top2</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="60" name="Q" type="items_list" internal_id="60">
+		<page_data_item name="Q" type="hidden">
+			<question id="59010" extralabel="FASHION/BEAUTY_top2">_AND_FORCE_ID=59010;FASHION/BEAUTY_top2_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">FASHION/BEAUTY_top2</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="61" name="Q" type="items_list" internal_id="61">
+		<page_data_item name="Q" type="hidden">
+			<question id="30010" extralabel="Fitness,Hair and NOT Fashion">_AND_FORCE_ID=30010;Fitness,Hair and NOT Fashion_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Fitness,Hair and NOT Fashion</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="62" name="Q" type="items_list" internal_id="62">
+		<page_data_item name="Q" type="hidden">
+			<question id="30011" extralabel="Fitness,commute and NOT Fashion">_AND_FORCE_ID=30011;Fitness,commute and NOT Fashion_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Fitness,commute and NOT Fashion</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="63" name="Q" type="items_list" internal_id="63">
+		<page_data_item name="Q" type="hidden">
+			<question id="30012" extralabel="Fitness,Hair,commute and NOT Fashion">_AND_FORCE_ID=30012;Fitness,Hair,commute and NOT Fashion_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Fitness,Hair,commute and NOT Fashion</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="64" name="Q" type="items_list" internal_id="64">
+		<page_data_item name="Q" type="hidden">
+			<question id="70010" extralabel="Fashion,Hair and NOT Fitness">_AND_FORCE_ID=70010;Fashion,Hair and NOT Fitness_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Fashion,Hair and NOT Fitness</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="65" name="Q" type="items_list" internal_id="65">
+		<page_data_item name="Q" type="hidden">
+			<question id="70011" extralabel="Fashion,Commute and NOT Fitness">_AND_FORCE_ID=70011;Fashion,Commute and NOT Fitness_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Fashion,Commute and NOT Fitness</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="66" name="Q" type="items_list" internal_id="66">
+		<page_data_item name="Q" type="hidden">
+			<question id="70012" extralabel="Fashion,Hair,Commute and NOT Fitness">_AND_FORCE_ID=70012;Fashion,Hair,Commute and NOT Fitness_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Fashion,Hair,Commute and NOT Fitness</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="67" name="Q" type="items_list" internal_id="67">
+		<page_data_item name="Q" type="hidden">
+			<question id="19010" extralabel="ALL DEFINITIONs_2">_AND_FORCE_ID=19010;ALL DEFINITIONs_2</question>
+			<answer id="1" order_no="1" extralabel="Hair/Scalp Concerned">Yes for at least one hair/scalp issue _AND_lt;BR /_AND_gt;_AND_SELECTED_Q4001_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q5001_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q6001_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q7001_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q9001_A1;</answer>
+			<answer id="2" order_no="2" extralabel="Fitness">2 out of the Top 3 are Fitenss_AND_lt;BR /_AND_gt;_AND_SELECTED_Q49010_A1;_AND_SELECTED_Q9991_A1;_AND_SELECTED_Q30010_A1;_AND_SELECTED_Q30011_A1;_AND_SELECTED_Q30012_A1;</answer>
+			<answer id="3" order_no="3" extralabel="Fashion/Beauty">2 out of the Top 3 are Fashion/beauty_AND_lt;BR /_AND_gt;_AND_SELECTED_Q59010_A1;_AND_SELECTED_Q9992_A1;_AND_SELECTED_Q70010_A1;_AND_SELECTED_Q70011_A1;_AND_SELECTED_Q70012_A1;</answer>
+			<answer id="4" order_no="4" extralabel="Commute">Travels around on a motorbike _AND_lt;b_AND_gt;and_AND_lt;/b_AND_gt; Travels on a motorbike at least once a week _AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q4009_NA1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4010_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4010_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q4010_A3;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="68" name="Q" type="items_list" internal_id="68">
+		<page_data_item name="Q" type="hidden">
+			<question id="69010" extralabel="More than 1 selecetion_DEF2">_AND_FORCE_ID=69010;More than 1 selecetion_DEF2_AND_lt;BR /_AND_gt;_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">_AND_gt;1 selection in final segment classification.</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="69" name="Q" type="items_list" internal_id="69">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="15">809010</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="70" name="Q" type="items_list" internal_id="70">
+		<page_data_item name="Q" type="hidden">
+			<question id="79010" extralabel="prioritizing Hair/Scalp Concerned">_AND_FORCE_ID=79010;prioritizing Hair/Scalp Concerned_AND_RANDOM_1;</question>
+			<answer id="1" order_no="1">Hair/Scalp Concerned</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="71" name="Q" type="items_list" internal_id="71">
+		<page_data_item name="Q" type="hidden">
+			<question id="1819010" extralabel="Multiple_Fitness/Fashion or Beauty/Commute">_AND_FORCE_ID=1819010;Fitness/Fashion or Beauty/Commute_AND_RANDOM_4;</question>
+			<answer id="1" order_no="1">_AND_gt;1 Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q79010_NA1;</answer>
+			<answer id="2" order_no="2">_AND_gt;1 Fitness_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q79010_A1;</answer>
+			<answer id="3" order_no="3">_AND_gt;1 Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q79010_A1;</answer>
+			<answer id="4" order_no="4">_AND_gt;1 Commute_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q79010_A1;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="72" name="Q" type="items_list" internal_id="72">
+		<page_data_item name="Q" type="hidden">
+			<question id="819010" extralabel="Multiple_Fitness/Fashion or Beauty/Commute">_AND_FORCE_ID=819010;Fitness/Fashion or Beauty/Commute_AND_RANDOM_4;</question>
+			<answer id="1" order_no="1">_AND_gt;1 Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q19010_NA1;</answer>
+			<answer id="2" order_no="2">_AND_gt;1 Fitness_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q19010_NA2;</answer>
+			<answer id="3" order_no="3">_AND_gt;1 Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q19010_NA3;</answer>
+			<answer id="4" order_no="4">_AND_gt;1 Commute_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q19010_NA4;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="73" name="Q" type="items_list" internal_id="73">
+		<page_data_item name="Q" type="hidden">
+			<question id="809010" extralabel="single_Fitness/Fashion or Beauty/Commute">_AND_FORCE_ID=809010;Fitness/Fashion or Beauty/Commute_AND_RANDOM_4;</question>
+			<answer id="1" order_no="1">=1 Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q19010_NA1;</answer>
+			<answer id="2" order_no="2">=1 Fitness_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q19010_NA2;</answer>
+			<answer id="3" order_no="3">=1 Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q19010_NA3;</answer>
+			<answer id="4" order_no="4">=1 Commute_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q19010_NA4;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="74" name="Q" type="items_list" internal_id="74">
+		<page_data_item name="Q" type="hidden">
+			<question id="89010" extralabel="Final_segment">_AND_FORCE_ID=89010;Fitness/Fashion or Beauty/Commute</question>
+			<answer id="1" order_no="1">Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_SELECTED_Q819010_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q809010_A1;_AND_lt;BR /_AND_gt;_AND_QUOTA_COMPLETES_Q10000_1_240;</answer>
+			<answer id="2" order_no="2">Fitness_AND_lt;BR /_AND_gt;_AND_SELECTED_Q819010_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q809010_A2;_AND_lt;BR /_AND_gt;_AND_QUOTA_COMPLETES_Q10000_2_240;</answer>
+			<answer id="3" order_no="3">Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_SELECTED_Q819010_A3;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q809010_A3;_AND_lt;BR /_AND_gt;_AND_QUOTA_COMPLETES_Q10000_3_240;</answer>
+			<answer id="4" order_no="4">Commute_AND_lt;BR /_AND_gt;_AND_SELECTED_Q819010_A4;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q809010_A4;_AND_lt;BR /_AND_gt;_AND_QUOTA_COMPLETES_Q10000_4_240;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="75" name="Q" type="items_list" internal_id="75">
+		<page_data_item name="Q" type="Ineligible-Multisource">
+			<question id="16"></question>
+		</page_data_item>
+		<page_data_item name="Q" type="Screenout-Multisource">
+			<question id="17">Screenout multisource</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/unqualify?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=s">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/EarlyScreenOut?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="76" name="Q" type="items_list" internal_id="76">
+		<page_data_item name="Q" type="hidden">
+			<question id="109010" extralabel="Age,LMS and cell balancing variable">_AND_FORCE_ID=109010;Age,LMS and cell balancing variable_AND_LOW_BUCKETRANDOM_1;</question>
+			<answer id="1" order_no="1">18-34 years_AND_lt;BR /_AND_gt; 10-15 Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA1;_AND_EXCLUDED_Q89010_NA1;</answer>
+			<answer id="2" order_no="2">18-34 years_AND_lt;BR /_AND_gt; 10-15 Fitness_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA1;_AND_EXCLUDED_Q89010_NA2;</answer>
+			<answer id="3" order_no="3">18-34 years_AND_lt;BR /_AND_gt; 10-15 Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA1;_AND_EXCLUDED_Q89010_NA3;</answer>
+			<answer id="4" order_no="4">18-34 years_AND_lt;BR /_AND_gt; 10-15 Commute_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA1;_AND_EXCLUDED_Q89010_NA4;</answer>
+			<answer id="5" order_no="5">18-34 years_AND_lt;BR /_AND_gt; 16-19 Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA2;_AND_EXCLUDED_Q89010_NA1;</answer>
+			<answer id="6" order_no="6">18-34 years_AND_lt;BR /_AND_gt; 16-19 Fitness_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA2;_AND_EXCLUDED_Q89010_NA2;</answer>
+			<answer id="7" order_no="7">18-34 years_AND_lt;BR /_AND_gt; 16-19 Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA2;_AND_EXCLUDED_Q89010_NA3;</answer>
+			<answer id="8" order_no="8">18-34 years_AND_lt;BR /_AND_gt; 16-19 Commute_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA2;_AND_EXCLUDED_Q89010_NA4;</answer>
+			<answer id="9" order_no="9">35+ years_AND_lt;BR /_AND_gt; 10-15 Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA3;_AND_EXCLUDED_Q89010_NA1;</answer>
+			<answer id="10" order_no="10">35+ years_AND_lt;BR /_AND_gt; 10-15 Fitness_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA3;_AND_EXCLUDED_Q89010_NA2;</answer>
+			<answer id="11" order_no="11">35+ years_AND_lt;BR /_AND_gt; 10-15 Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA3;_AND_EXCLUDED_Q89010_NA3;</answer>
+			<answer id="12" order_no="12">35+ years_AND_lt;BR /_AND_gt; 10-15 Commute_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA3;_AND_EXCLUDED_Q89010_NA4;</answer>
+			<answer id="13" order_no="13">35+ years_AND_lt;BR /_AND_gt; 16-19 Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA4;_AND_EXCLUDED_Q89010_NA1;</answer>
+			<answer id="14" order_no="14">35+ years_AND_lt;BR /_AND_gt; 16-19 Fitness_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA4;_AND_EXCLUDED_Q89010_NA2;</answer>
+			<answer id="15" order_no="15">35+ years_AND_lt;BR /_AND_gt; 16-19 Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA4;_AND_EXCLUDED_Q89010_NA3;</answer>
+			<answer id="16" order_no="16">35+ years_AND_lt;BR /_AND_gt; 16-19 Commute_AND_lt;BR /_AND_gt;_AND_EXCLUDED_Q1234_NA4;_AND_EXCLUDED_Q89010_NA4;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="77" name="Q" type="items_list" internal_id="77">
+		<page_data_item name="Q" type="Ineligible-Multisource">
+			<question id="18"></question>
+		</page_data_item>
+		<page_data_item name="Q" type="Screenout-Multisource">
+			<question id="19">Screenout multisource</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/unqualify?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=s">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/EarlyScreenOut?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="78" name="Q" type="items_list" internal_id="78">
+		<page_data_item name="Q" type="text">
+			<header>Bây giờ chúng tôi muốn cho bạn xem một đoạn phim thử nghiệm. _AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Vui lòng chắc chắn rằng âm thanh trên máy tính của bạn được bật trước khi tiến hành._AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Vui lòng nhấp vào để tiếp tục.</header>
+		</page_data_item>
+		<page_data_item name="Q" type="video_sound_test">
+			<question id="2223" extralabel="TEST AUDIO/VIDEO SETTINGS">_AND_FORCE_ID=2223;video_sound_test.asp</question>
+			<answer id="1" order_no="1">_AND_lt;b_AND_gt;Bạn vừa xem đoạn phim nào?_AND_lt;/b_AND_gt;</answer>
+			<answer id="2" order_no="2">Không thể xem đoạn phim</answer>
+			<answer id="3" order_no="3">_AND_lt;b_AND_gt;Bạn vừa nghe nhạc cụ nào?_AND_lt;/b_AND_gt;</answer>
+			<answer id="4" order_no="4">Không nghe thấy bất kỳ nhạc cụ nào</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>[INVISIBLE]TEST COMPUTER SETTINGS FOR CORRECT VISION AND SOUND</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="79" name="Q" type="items_list" internal_id="79">
+		<page_data_item name="Q" type="Ineligible-Multisource">
+			<question id="20"></question>
+		</page_data_item>
+		<page_data_item name="Q" type="Screenout-Multisource">
+			<question id="21">Screenout multisource</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/unqualify?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=s">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/EarlyScreenOut?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="80" name="Q" type="items_list" internal_id="80">
+		<page_data_item name="Q" type="Quote">
+			<question id="22" extralabel="INTRODUCTION"></question>
+			<answer id="1" order_no="1">_AND_lt;b_AND_gt;Cảm ơn bạn!_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Bạn thuộc nhóm đối tượng của chúng tôi và sẽ tự động được chuyển hướng đến khảo sát chính. Trong khảo sát này, chúng tôi muốn biết ý kiến của bạn về các quảng cáo chăm sóc tóc._AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Nhấp vào mũi tên bên dưới để đến khảo sát chính!_AND_lt;/i_AND_gt;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="10000" extralabel="FINAL segment pick">_AND_FORCE_ID=10000;FINAL segment pick</question>
+			<answer id="1" order_no="1">Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A1;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A5;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A9;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A13;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_S1_Hair_Scalp_Concerned_Awareness_15s;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_new/S1_Hair_Scalp_Concerned_Awareness_15s_sb_111.jpg;</answer>
+			<answer id="2" order_no="2">Fitness_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A6;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A10;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A14;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_S2_Fitness_Awareness_15s;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_new/S2_Fitness_Awareness_15s_sb_222.jpg;</answer>
+			<answer id="3" order_no="3">Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A3;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A7;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A11;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A15;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_S3_Fashion_Beauty_Awareness_15s;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_new/S3_Fashion_Beauty_Awareness_15s_sb_333.jpg;</answer>
+			<answer id="4" order_no="4">Commute_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A4;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A8;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A12;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q109010_A16;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_S4_Commute_Awareness_15s;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_new/S4_Commute_Awareness_15s_sb_444.jpg;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="20000" extralabel="CONSIDERATION/BENCHMARK ads">_AND_FORCE_ID=20000;CONSIDERATION/BENCHMARK ads_AND_RANDOM_5;</question>
+			<answer id="1" order_no="1" extralabel="Consideration_Hair/Scalp Concerned">Hair/Scalp Concerned_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_S1_Hair_Scalp_Concerned_Consideration_6s;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_new/S1_Hair_Scalp_Concerned_Consideration_6s_sb_111.jpg;</answer>
+			<answer id="2" order_no="2" extralabel="Consideration_Fitness">Fitness_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_S2_Fitness_Enthusiasts_Consideration_6s;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_new/S2_Fitness_Enthusiasts_Consideration_6s_sb_222.jpg;</answer>
+			<answer id="3" order_no="3" extralabel="Consideration_Fashion/Beauty">Fashion/Beauty_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_S3_Fashion_Beauty_Consideration_6s;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_new/S3_Fashion_Beauty_Consideration_6s_sb_333.jpg;</answer>
+			<answer id="4" order_no="4" extralabel="Consideration_Commute">Commute_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_S4_Commute_Consideration_6s;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_new/S4_Commute_Consideration_6s_sb_444.jpg;</answer>
+			<answer id="5" order_no="5" extralabel="BENCHMARK_clear">clear_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_clear_BENCHMARK;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_new/clear_BENCHMARK_sb_555.jpg;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="cell_selection">
+			<question id="23"></question>
+			<answer id="1" order_no="1">10000</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="81" name="Q" type="items_list" internal_id="81">
+		<page_data_item name="Q" type="text">
+			<header extralabel=" INTRODUCTION">Tiếp theo, chúng tôi sẽ cho bạn xem một số quảng cáo Clear, vui lòng xem tất cả._AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;b_AND_gt;Mỗi quảng cáo đều khác biệt, vui lòng xem kỹ._AND_lt;/b_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Sau khi bạn xem xong, vui lòng nhấp vào mũi tên để tiếp tục._AND_lt;/i_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="82" name="Q" type="items_list" internal_id="82">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_top_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="video_player">
+			<question id="2225" extralabel="Awareness Video player">_AND_FORCE_ID=2225;TG Video player</question>
+			<answer id="1" order_no="1">images/_AND_INCLUDE_INFO_1_Q10000_1;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_bottom_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="83" name="Q" type="items_list" internal_id="83">
+		<page_data_item name="Q" type="hidden">
+			<question id="23011" extralabel="Considerations | RANDOMISE">_AND_FORCE_ID=23011;Considerations_AND_RANDOM_5;_AND_RANDOMISE_ANSWERS;</question>
+			<answer id="1" order_no="1">23111</answer>
+			<answer id="2" order_no="2">23211</answer>
+			<answer id="3" order_no="3">23311</answer>
+			<answer id="4" order_no="4">23411</answer>
+			<answer id="5" order_no="5">23511</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="84" name="Q" type="items_list" internal_id="84">
+		<page_data_item name="Q" type="hidden_text">
+			<question id="400111" extralabel="Position Tracker" translate="no">_AND_FORCE_ID=400111;Position Tracker_AND_RANDOM_5;</question>
+			<answer id="1" order_no="1" translate="no">_AND_INCLUDE_TEXT_Q23011_1;</answer>
+			<answer id="2" order_no="2" translate="no">_AND_INCLUDE_TEXT_Q23011_2;</answer>
+			<answer id="3" order_no="3" translate="no">_AND_INCLUDE_TEXT_Q23011_3;</answer>
+			<answer id="4" order_no="4" translate="no">_AND_INCLUDE_TEXT_Q23011_4;</answer>
+			<answer id="5" order_no="5" translate="no">_AND_INCLUDE_TEXT_Q23011_5;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="85" name="Q" type="items_list" internal_id="85">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="44444" translate="no">[HIDDEN]_AND_FORCE_ID=44444;RANDOM_JUMP;</question>
+			<answer id="1" order_no="1" translate="no">_AND_INCLUDE_TEXT_Q23011_1;</answer>
+			<answer id="2" order_no="2" translate="no">_AND_INCLUDE_TEXT_Q23011_2;</answer>
+			<answer id="3" order_no="3" translate="no">_AND_INCLUDE_TEXT_Q23011_3;</answer>
+			<answer id="4" order_no="4" translate="no">_AND_INCLUDE_TEXT_Q23011_4;</answer>
+			<answer id="5" order_no="5" translate="no">_AND_INCLUDE_TEXT_Q23011_5;</answer>
+			<answer id="6" order_no="6" translate="no">200130</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="86" name="Q" type="items_list" internal_id="86">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Lúc này chúng tôi sẽ cho bạn xe một quảng cáo _AND_lt;u_AND_gt;khác_AND_lt;/u_AND_gt;, vui lòng xem kỹ._AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_top_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="video_player">
+			<question id="23111" extralabel="Consideration1">_AND_FORCE_ID=23111;</question>
+			<answer id="1" order_no="1">images/S1_Hair_Scalp_Concerned_Consideration_6s</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_bottom_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="87" name="Q" type="items_list" internal_id="87">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="24">44444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="88" name="Q" type="items_list" internal_id="88">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Lúc này chúng tôi sẽ cho bạn xe một quảng cáo _AND_lt;u_AND_gt;khác_AND_lt;/u_AND_gt;, vui lòng xem kỹ._AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_top_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="video_player">
+			<question id="23211" extralabel="Consideration2">_AND_FORCE_ID=23211;</question>
+			<answer id="1" order_no="1">images/S2_Fitness_Enthusiasts_Consideration_6s</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_bottom_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="89" name="Q" type="items_list" internal_id="89">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="25">44444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="90" name="Q" type="items_list" internal_id="90">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Lúc này chúng tôi sẽ cho bạn xe một quảng cáo _AND_lt;u_AND_gt;khác_AND_lt;/u_AND_gt;, vui lòng xem kỹ._AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_top_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="video_player">
+			<question id="23311" extralabel="Consideration3">_AND_FORCE_ID=23311;</question>
+			<answer id="1" order_no="1">images/S3_Fashion_Beauty_Consideration_6s</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_bottom_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="91" name="Q" type="items_list" internal_id="91">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="26">44444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="92" name="Q" type="items_list" internal_id="92">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Lúc này chúng tôi sẽ cho bạn xe một quảng cáo _AND_lt;u_AND_gt;khác_AND_lt;/u_AND_gt;, vui lòng xem kỹ._AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_top_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="video_player">
+			<question id="23411" extralabel="Consideration4">_AND_FORCE_ID=23411;</question>
+			<answer id="1" order_no="1">images/S4_Commute_Consideration_6s</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_bottom_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="93" name="Q" type="items_list" internal_id="93">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="27">44444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="94" name="Q" type="items_list" internal_id="94">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Lúc này chúng tôi sẽ cho bạn xe một quảng cáo _AND_lt;u_AND_gt;khác_AND_lt;/u_AND_gt;, vui lòng xem kỹ._AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_top_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="video_player">
+			<question id="23511" extralabel="Consideration5">_AND_FORCE_ID=23511;</question>
+			<answer id="1" order_no="1">images/clear_BENCHMARK</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/YT_skin_bottom_awareness1.png" width="100%" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="95" name="Q" type="items_list" internal_id="95">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="28">44444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="96" name="Q" type="items_list" internal_id="96">
+		<page_data_item name="Q" type="QualifiedStarter">
+			<question id="29"></question>
+		</page_data_item>
+		<page_data_item name="Q" type="Quote">
+			<question id="200130" extralabel="INTUITIVE APPEAL | INTRODUCTION">_AND_FORCE_ID=200130;</question>
+			<answer id="1" order_no="1">_AND_lt;b_AND_gt;Chúng ta hãy bắt đầu với bài tập đầu tiên!_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt; _AND_lt;BR /_AND_gt;Ở các trang tiếp theo, chúng tôi sẽ cho bạn xem một số quảng cáo Clear. Đối với từng quảng cáo, chúng tôi muốn biết bạn thích hay không thích nó. Vui lòng chọn biểu tượng mặt cười màu xanh lá nếu bạn thích quảng cáo đó, và biểu tượng mặt cau mày màu đỏ nếu bạn không thích. _AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Trước khi chúng tôi cho bạn xem các quảng cáo Clear, chúng tôi sẽ bắt đầu bằng một ví dụ, để giúp bạn làm quen với phương pháp này._AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Nhấp vào mũi tên để tiếp tục._AND_lt;/i_AND_gt;_AND_lt;BR /_AND_gt;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="97" name="Q" type="items_list" internal_id="97">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Bạn cảm thấy thế nào về hình ảnh này? _AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="DynamicQuiz">
+			<question id="2013" extralabel="INTUITIVE APPEAL | TRAINING">_AND_FORCE_ID=2013;./images/monkey.png</question>
+			<answer id="1" order_no="1" button1bgcolor="#FFFFFF" button2bgcolor="#FFFFFF">_AND_lt;img src=' ./images/buttons/happy.png ' /_AND_gt;</answer>
+			<answer id="2" order_no="2">_AND_lt;img src=' ./images/buttons/sad1.png ' /_AND_gt;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="98" name="Q" type="items_list" internal_id="98">
+		<page_data_item name="Q" type="Quote">
+			<question id="30" extralabel="INTUITIVE APPEAL | TRAINING"></question>
+			<answer id="1" order_no="1">Mục đích của ví dụ này là để bạn làm quen với phương pháp cũng như để chuẩn bị cho bạn sẵn sàng đến quảng cáo tiếp theo._AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Ở trang tiếp theo, chúng tôi sẽ cho bạn xem các bố cục chương trình khác nhau về quảng cáo Clear mà bạn đã xem trước đó, từng cái một, và chúng tôi muốn biết ý kiến của bạn về chúng._AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;b_AND_gt;Mỗi bố cục chương trình đều khác biệt, vui lòng xem kỹ trước khi trả lời câu hỏi._AND_lt;/b_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Nhấp vào mũi tên để bắt đầu._AND_lt;/i_AND_gt;_AND_lt;BR /_AND_gt;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="99" name="Q" type="items_list" internal_id="99">
+		<page_data_item name="Q" type="text">
+			<header extralabel="INTUITIVE APPEAL | CLIENT">_AND_lt;b_AND_gt;Bạn cảm thấy thế nào về quảng cáo Clear này?_AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="DynamicQuiz">
+			<question id="2003" extralabel="2003">_AND_FORCE_ID=2003;./images/_AND_INCLUDE_INFO_2_Q10000_1;_AND_RANDOMISE_QUESTIONS;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="DynamicQuiz">
+			<question id="2004" extralabel="2004">_AND_FORCE_ID=2004;./images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="DynamicQuiz">
+			<question id="2005" extralabel="2005">_AND_FORCE_ID=2005;./images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="DynamicQuiz">
+			<question id="2006" extralabel="2006">_AND_FORCE_ID=2006;./images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="DynamicQuiz">
+			<question id="2007" extralabel="2007">_AND_FORCE_ID=2007;./images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="DynamicQuiz">
+			<question id="208" extralabel="208">_AND_FORCE_ID=208;./images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" button1bgcolor="#FFFFFF" button2bgcolor="#FFFFFF">_AND_lt;img src=' ./images/buttons/happy.png ' /_AND_gt;</answer>
+			<answer id="2" order_no="2">_AND_lt;img src=' ./images/buttons/sad1.png ' /_AND_gt;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="100" name="Q" type="items_list" internal_id="100">
+		<page_data_item name="Q" type="Quote">
+			<question id="31" extralabel="KPIs | INTRODUCTION"></question>
+			<answer id="1" order_no="1">_AND_lt;b_AND_gt;Chúng ta hãy đến phần tiếp theo!_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Ở các trang tiếp theo, chúng tôi sẽ cho bạn xem lại các bố cục chương trình khác nhau về các quảng cáo Clear mà bạn đã xem trước đó. _AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Chúng tôi muốn biết bạn đánh giá thế nào về các quảng cáo sau đây dựa trên một số tiêu chí. Vui lòng kéo và thả từng quảng cáo vào ô trả lời mô tả chính xác nhất ý kiến của bạn. Bạn có thể kéo nhiều quảng cáo vào cùng ô nếu muốn._AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;b_AND_gt;Mỗi bố cục chương trình đều khác biệt, vui lòng xem kỹ trước khi trả lời câu hỏi._AND_lt;/b_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Nhấp vào mũi tên bên dưới để đến trang kế._AND_lt;/i_AND_gt;_AND_lt;BR /_AND_gt;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="2301" extralabel="KPIs | RANDOMISE">_AND_FORCE_ID=2301;KPIs_AND_RANDOM_6;</question>
+			<answer id="1" order_no="1">2311</answer>
+			<answer id="2" order_no="2">2321</answer>
+			<answer id="3" order_no="3">2331</answer>
+			<answer id="4" order_no="4">2341</answer>
+			<answer id="5" order_no="5">2351</answer>
+			<answer id="6" order_no="6">2361</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>[INVISIBLE]_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="101" name="Q" type="items_list" internal_id="101">
+		<page_data_item name="Q" type="hidden_text">
+			<question id="40011" extralabel="Position Tracker" translate="no">_AND_FORCE_ID=40011;Position Tracker_AND_RANDOM_6;</question>
+			<answer id="1" order_no="1" translate="no">_AND_INCLUDE_TEXT_Q2301_1;</answer>
+			<answer id="2" order_no="2" translate="no">_AND_INCLUDE_TEXT_Q2301_2;</answer>
+			<answer id="3" order_no="3" translate="no">_AND_INCLUDE_TEXT_Q2301_3;</answer>
+			<answer id="4" order_no="4" translate="no">_AND_INCLUDE_TEXT_Q2301_4;</answer>
+			<answer id="5" order_no="5" translate="no">_AND_INCLUDE_TEXT_Q2301_5;</answer>
+			<answer id="6" order_no="6" translate="no">_AND_INCLUDE_TEXT_Q2301_6;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="102" name="Q" type="items_list" internal_id="102">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="4444" translate="no">[HIDDEN]_AND_FORCE_ID=4444;RANDOM_JUMP;</question>
+			<answer id="1" order_no="1" translate="no">_AND_INCLUDE_TEXT_Q2301_1;</answer>
+			<answer id="2" order_no="2" translate="no">_AND_INCLUDE_TEXT_Q2301_2;</answer>
+			<answer id="3" order_no="3" translate="no">_AND_INCLUDE_TEXT_Q2301_3;</answer>
+			<answer id="4" order_no="4" translate="no">_AND_INCLUDE_TEXT_Q2301_4;</answer>
+			<answer id="5" order_no="5" translate="no">_AND_INCLUDE_TEXT_Q2301_5;</answer>
+			<answer id="6" order_no="6" translate="no">_AND_INCLUDE_TEXT_Q2301_6;</answer>
+			<answer id="7" order_no="7" translate="no">200</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="103" name="Q" type="items_list" internal_id="103">
+		<page_data_item name="Q" type="text">
+			<header extralabel="KPIs | LIKEABILITY">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Bạn cảm thấy thế nào về quảng cáo này? _AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;_AND_RANDOMISE_QUESTIONS;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2311">_AND_FORCE_ID=2311;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2312">_AND_FORCE_ID=2312;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2313">_AND_FORCE_ID=2313;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2314">_AND_FORCE_ID=2314;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2315">_AND_FORCE_ID=2315;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2316">_AND_FORCE_ID=2316;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Rất thích quảng cáo này</answer>
+			<answer id="2" order_no="2">Khá thích quảng cáo này</answer>
+			<answer id="3" order_no="3">Không thích cũng không ghét</answer>
+			<answer id="4" order_no="4">Không thích quảng cáo này lắm</answer>
+			<answer id="5" order_no="5" showenlargement="True">Không thích quảng cáo này</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="104" name="Q" type="items_list" internal_id="104">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="32">4444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="105" name="Q" type="items_list" internal_id="105">
+		<page_data_item name="Q" type="text">
+			<header extralabel="KPIs | IRRITATING">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Bạn cảm thấy thế nào về quảng cáo này?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;_AND_RANDOMISE_QUESTIONS;_AND_lt;BR /_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2321">_AND_FORCE_ID=2321;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2322">_AND_FORCE_ID=2322;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2323">_AND_FORCE_ID=2323;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2324">_AND_FORCE_ID=2324;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2325">_AND_FORCE_ID=2325;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2326">_AND_FORCE_ID=2326;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Rất khó chịu</answer>
+			<answer id="2" order_no="2">Khó chịu một chút</answer>
+			<answer id="3" order_no="3">Không có ý kiến</answer>
+			<answer id="4" order_no="4">Không khó chịu lắm</answer>
+			<answer id="5" order_no="5" showenlargement="True">Hoàn toàn không khó chịu</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="106" name="Q" type="items_list" internal_id="106">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="33">4444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="107" name="Q" type="items_list" internal_id="107">
+		<page_data_item name="Q" type="text">
+			<header extralabel="KPIs | RELEVANCE">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Quảng cáo này phù hợp thế nào với bạn?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt; Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;_AND_RANDOMISE_QUESTIONS;_AND_lt;BR /_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2331">_AND_FORCE_ID=2331;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2332">_AND_FORCE_ID=2332;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2333">_AND_FORCE_ID=2333;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2334">_AND_FORCE_ID=2334;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2335">_AND_FORCE_ID=2335;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2336">_AND_FORCE_ID=2336;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Chứa thông tin phù hợp với cá nhân tôi</answer>
+			<answer id="2" order_no="2">Phần nào phù hợp</answer>
+			<answer id="3" order_no="3">Không có ý kiến</answer>
+			<answer id="4" order_no="4">Không phù hợp lắm</answer>
+			<answer id="5" order_no="5" showenlargement="True">Không chứa thông tin phù hợp với cá nhân tôi</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="108" name="Q" type="items_list" internal_id="108">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="34">4444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="109" name="Q" type="items_list" internal_id="109">
+		<page_data_item name="Q" type="text">
+			<header extralabel="KPIs | BRAND FIT">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Bạn cho rằng quảng cáo này phù hợp với Clear ở mức độ nào?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt; Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;_AND_RANDOMISE_QUESTIONS;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2341">_AND_FORCE_ID=2341;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2342">_AND_FORCE_ID=2342;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2343">_AND_FORCE_ID=2343;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2344">_AND_FORCE_ID=2344;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2345">_AND_FORCE_ID=2345;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2346">_AND_FORCE_ID=2346;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Rất phù hợp với thương hiệu Clear</answer>
+			<answer id="2" order_no="2">Phù hợp với thương hiệu Clear</answer>
+			<answer id="3" order_no="3">Không có ý kiến</answer>
+			<answer id="4" order_no="4">Không phù hợp với thương hiệu Clear</answer>
+			<answer id="5" order_no="5" showenlargement="True">Hoàn toàn không phù hợp với thương hiệu Clear</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="110" name="Q" type="items_list" internal_id="110">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="35">4444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="111" name="Q" type="items_list" internal_id="111">
+		<page_data_item name="Q" type="text">
+			<header extralabel="KPIs | UNDERSTANDING">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Vui lòng cho biết mức dễ hiểu của quảng cáo này? _AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;_AND_RANDOMISE_QUESTIONS;_AND_lt;BR /_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2351">_AND_FORCE_ID=2351;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2352">_AND_FORCE_ID=2352;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2353">_AND_FORCE_ID=2353;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2354">_AND_FORCE_ID=2354;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2355">_AND_FORCE_ID=2355;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2356">_AND_FORCE_ID=2356;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Khó hiểu</answer>
+			<answer id="2" order_no="2">Hơi khó hiểu</answer>
+			<answer id="3" order_no="3">Không có ý kiến</answer>
+			<answer id="4" order_no="4">Phần nào dễ hiểu</answer>
+			<answer id="5" order_no="5" showenlargement="True">Dễ hiểu</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="112" name="Q" type="items_list" internal_id="112">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="36">4444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="113" name="Q" type="items_list" internal_id="113">
+		<page_data_item name="Q" type="text">
+			<header extralabel="KPIs | PURCHASE INTENT">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Vui lòng cho biết khả năng bạn sẽ mua sản phẩm của Clear, dựa trên quảng cáo này?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;_AND_RANDOMISE_QUESTIONS;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2361">_AND_FORCE_ID=2361;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2362">_AND_FORCE_ID=2362;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2363">_AND_FORCE_ID=2363;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2364">_AND_FORCE_ID=2364;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2365">_AND_FORCE_ID=2365;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2366">_AND_FORCE_ID=2366;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Chắc chắn tôi sẽ mua sản phẩm của thương hiệu này</answer>
+			<answer id="2" order_no="2">Có khả năng tôi sẽ mua sản phẩm của thương hiệu này</answer>
+			<answer id="3" order_no="3">Tôi có thể hoặc có thể không mua sản phẩm của thương hiệu này</answer>
+			<answer id="4" order_no="4">Có khả năng tôi sẽ không mua sản phẩm của thương hiệu này</answer>
+			<answer id="5" order_no="5" showenlargement="True">Chắc chắn tôi sẽ không mua sản phẩm của thương hiệu này</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="114" name="Q" type="items_list" internal_id="114">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="37">4444</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="115" name="Q" type="items_list" internal_id="115">
+		<page_data_item name="Q" type="hidden">
+			<question id="200" extralabel="Help Variable for Random Jump">_AND_FORCE_ID=200;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="116" name="Q" type="items_list" internal_id="116">
+		<page_data_item name="Q" type="hidden">
+			<question id="230101" extralabel="MESSAGE ASSOCIATION | RANDOMISE">_AND_FORCE_ID=230101;KPIs_AND_RANDOMISE_ANSWERS; _AND_RANDOM_6;</question>
+			<answer id="1" order_no="1">231101</answer>
+			<answer id="2" order_no="2">232101</answer>
+			<answer id="3" order_no="3">233101</answer>
+			<answer id="4" order_no="4">234101</answer>
+			<answer id="5" order_no="5">235101</answer>
+			<answer id="6" order_no="6">[INVISIBLE]236101</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="117" name="Q" type="items_list" internal_id="117">
+		<page_data_item name="Q" type="hidden_text">
+			<question id="4001101" extralabel="Position Tracker" translate="no">_AND_FORCE_ID=4001101;Position Tracker_AND_RANDOM_6;</question>
+			<answer id="1" order_no="1" translate="no">_AND_INCLUDE_TEXT_Q230101_1;</answer>
+			<answer id="2" order_no="2" translate="no">_AND_INCLUDE_TEXT_Q230101_2;</answer>
+			<answer id="3" order_no="3" translate="no">_AND_INCLUDE_TEXT_Q230101_3;</answer>
+			<answer id="4" order_no="4" translate="no">_AND_INCLUDE_TEXT_Q230101_4;</answer>
+			<answer id="5" order_no="5" translate="no">_AND_INCLUDE_TEXT_Q230101_5;</answer>
+			<answer id="6" order_no="6" translate="no">[INVISIBLE]_AND_INCLUDE_TEXT_Q230101_6;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="118" name="Q" type="items_list" internal_id="118">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="44442" translate="no">[HIDDEN]_AND_FORCE_ID=44442;RANDOM_JUMP;</question>
+			<answer id="1" order_no="1" translate="no">_AND_INCLUDE_TEXT_Q230101_1;</answer>
+			<answer id="2" order_no="2" translate="no">_AND_INCLUDE_TEXT_Q230101_2;</answer>
+			<answer id="3" order_no="3" translate="no">_AND_INCLUDE_TEXT_Q230101_3;</answer>
+			<answer id="4" order_no="4" translate="no">_AND_INCLUDE_TEXT_Q230101_4;</answer>
+			<answer id="5" order_no="5" translate="no">_AND_INCLUDE_TEXT_Q230101_5;</answer>
+			<answer id="6" order_no="6" translate="no">[INVISIBLE]_AND_INCLUDE_TEXT_Q230101_6;</answer>
+			<answer id="7" order_no="7" translate="no">9200121</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="119" name="Q" type="items_list" internal_id="119">
+		<page_data_item name="Q" type="text">
+			<header extralabel="AIDED ASSOCIATION CHECK | MESSAGE ASSOCIATION">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Vui lòng cho biết mức độ đồng ý của bạn rằng quảng cáo này truyền đạt rằng _AND_lt;u_AND_gt;Clear có khả năng trị gàu hiệu quả_AND_lt;/u_AND_gt;?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt; Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="231101">_AND_FORCE_ID=231101;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2372">_AND_FORCE_ID=2372;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2373">_AND_FORCE_ID=2373;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2374">_AND_FORCE_ID=2374;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2375">_AND_FORCE_ID=2375;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2376">_AND_FORCE_ID=2376;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Rất không đồng ý</answer>
+			<answer id="2" order_no="2">Không đồng ý</answer>
+			<answer id="3" order_no="3">Không có ý kiến</answer>
+			<answer id="4" order_no="4">Đồng ý</answer>
+			<answer id="5" order_no="5" showenlargement="True">Rất đồng ý</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="120" name="Q" type="items_list" internal_id="120">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="38">44442</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="121" name="Q" type="items_list" internal_id="121">
+		<page_data_item name="Q" type="text">
+			<header extralabel="AIDED ASSOCIATION CHECK | MESSAGE ASSOCIATION">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Vui lòng cho biết mức độ đồng ý của bạn rằng quảng cáo này truyền đạt rằng _AND_lt;u_AND_gt;Clear có công thức gel lỏng mới_AND_lt;/u_AND_gt;?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="232101">_AND_FORCE_ID=232101;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2382">_AND_FORCE_ID=2382;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2383">_AND_FORCE_ID=2383;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2384">_AND_FORCE_ID=2384;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2385">_AND_FORCE_ID=2385;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2386">_AND_FORCE_ID=2386;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Rất không đồng ý</answer>
+			<answer id="2" order_no="2">Không đồng ý</answer>
+			<answer id="3" order_no="3">Không có ý kiến</answer>
+			<answer id="4" order_no="4">Đồng ý</answer>
+			<answer id="5" order_no="5" showenlargement="True">Rất đồng ý</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="122" name="Q" type="items_list" internal_id="122">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="39">44442</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="123" name="Q" type="items_list" internal_id="123">
+		<page_data_item name="Q" type="text">
+			<header extralabel="AIDED ASSOCIATION CHECK | MESSAGE ASSOCIATION">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Vui lòng cho biết mức đồng ý của bạn rằng quảng cáo này truyền đạt rằng _AND_lt;u_AND_gt;Clear giúp giữ cho da đầu của bạn được khỏe mạnh_AND_lt;/u_AND_gt;? _AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="233101">_AND_FORCE_ID=233101;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2392">_AND_FORCE_ID=2392;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2393">_AND_FORCE_ID=2393;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2394">_AND_FORCE_ID=2394;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2395">_AND_FORCE_ID=2395;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2396">_AND_FORCE_ID=2396;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Rất không đồng ý</answer>
+			<answer id="2" order_no="2">Không đồng ý</answer>
+			<answer id="3" order_no="3">Không có ý kiến</answer>
+			<answer id="4" order_no="4">Đồng ý</answer>
+			<answer id="5" order_no="5" showenlargement="True">Rất đồng ý</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="124" name="Q" type="items_list" internal_id="124">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="40">44442</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="125" name="Q" type="items_list" internal_id="125">
+		<page_data_item name="Q" type="text">
+			<header extralabel="AIDED ASSOCIATION CHECK | MESSAGE ASSOCIATION">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Vui lòng cho biết mức đồng ý của bạn rằng quảng cáo này truyền đạt rằng _AND_lt;u_AND_gt;Clear giúp cho bạn cảm thấy an tâm_AND_lt;/u_AND_gt;? _AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="234101">_AND_FORCE_ID=234101;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2402">_AND_FORCE_ID=2402;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2403">_AND_FORCE_ID=2403;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2404">_AND_FORCE_ID=2404;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2405">_AND_FORCE_ID=2405;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2406">_AND_FORCE_ID=2406;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Rất không đồng ý</answer>
+			<answer id="2" order_no="2">Không đồng ý</answer>
+			<answer id="3" order_no="3">Không có ý kiến</answer>
+			<answer id="4" order_no="4">Đồng ý</answer>
+			<answer id="5" order_no="5" showenlargement="True">Rất đồng ý</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="126" name="Q" type="items_list" internal_id="126">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="41">44442</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="127" name="Q" type="items_list" internal_id="127">
+		<page_data_item name="Q" type="text">
+			<header extralabel="AIDED ASSOCIATION CHECK | MESSAGE ASSOCIATION">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Vui lòng cho biết mức độ đồng ý của bạn rằng quảng cáo này truyền đạt rằng _AND_lt;u_AND_gt;Clear không ảnh hưởng đến da đầu_AND_lt;/u_AND_gt;?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;Mark_AND_gt;_AND_lt;i_AND_gt;Mỗi quảng cáo đều khác biệt, _AND_lt;u_AND_gt;vui lòng xem kỹ_AND_lt;/u_AND_gt; hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/i_AND_gt;_AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Bạn có thể kéo nhiều thẻ vào một ô._AND_lt;/i_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="235101">_AND_FORCE_ID=235101;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2412">_AND_FORCE_ID=2412;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2413">_AND_FORCE_ID=2413;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2414">_AND_FORCE_ID=2414;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2415">_AND_FORCE_ID=2415;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="2416">_AND_FORCE_ID=2416;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Rất không đồng ý</answer>
+			<answer id="2" order_no="2">Không đồng ý</answer>
+			<answer id="3" order_no="3">Không có ý kiến</answer>
+			<answer id="4" order_no="4">Đồng ý</answer>
+			<answer id="5" order_no="5" showenlargement="True">Rất đồng ý</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;script_AND_gt;jQuery(document).ready(function(){jQuery('.textblock').css('overflow','visible');});_AND_lt;/script_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="128" name="Q" type="items_list" internal_id="128">
+		<page_data_item name="Q" type="JumpToQuestion">
+			<question id="42">44442</question>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="129" name="Q" type="items_list" internal_id="129">
+		<page_data_item name="Q" type="text">
+			<header extralabel="BRAND PURPOSE ">_AND_lt;b_AND_gt;Một số thương hiệu thực sự tin rằng công việc của họ không chỉ là kiếm lời; họ có mục đích không chỉ là kiếm tiền. Họ cố gắng cải thiện xã hội bằng cách thức họ sản xuất các sản phẩm và dịch vụ, và cách hoạt động kinh doanh của họ._AND_lt;BR /_AND_gt;Lưu ý điều đó, bạn đồng ý ở mức độ nào rằng quảng cáo này cho thấy rằng Clear tạo ra một sự khác biệt tích cực đối với xã hội?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;_AND_lt;div style="text-align: center"_AND_gt;_AND_lt;Mark_AND_gt;Mỗi quảng cáo đều khác biệt, vui lòng xem kỹ hình ảnh trước khi trả lời. Bạn có thể nhấp vào kính lúp để phóng to._AND_lt;/Mark_AND_gt;_AND_lt;BR /_AND_gt;Bạn có thể kéo nhiều quảng cáo vào cùng một ô._AND_lt;BR /_AND_gt;_AND_lt;/div_AND_gt;_AND_lt;/i_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="9200121">_AND_FORCE_ID=9200121;images/_AND_INCLUDE_INFO_2_Q10000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="9200122">_AND_FORCE_ID=9200122;images/_AND_INCLUDE_INFO_2_Q20000_1;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="9200123">_AND_FORCE_ID=9200123;images/_AND_INCLUDE_INFO_2_Q20000_2;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="9200124">_AND_FORCE_ID=9200124;images/_AND_INCLUDE_INFO_2_Q20000_3;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="9200125">_AND_FORCE_ID=9200125;images/_AND_INCLUDE_INFO_2_Q20000_4;</question>
+		</page_data_item>
+		<page_data_item name="Q" type="CardtestDynamic">
+			<question id="9200126">_AND_FORCE_ID=9200126;images/_AND_INCLUDE_INFO_2_Q20000_5;</question>
+			<answer id="1" order_no="1" showenlargement="True" nocardtext="Đây là thẻ cuối cùng">Rất Không Đồng Ý</answer>
+			<answer id="2" order_no="2">Không đồng ý</answer>
+			<answer id="3" order_no="3">Không có ý kiến</answer>
+			<answer id="4" order_no="4">Đồng ý</answer>
+			<answer id="5" order_no="5">Rất Đồng Ý</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="130" name="Q" type="items_list" internal_id="130">
+		<page_data_item name="Q" type="hidden">
+			<question id="1200121" extralabel="Help QID for Random Jump">_AND_FORCE_ID=1200121;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="Quote">
+			<question id="43" extralabel="ROUND ROBIN | INTRODUCTION"></question>
+			<answer id="1" order_no="1">_AND_lt;b_AND_gt;Quảng cáo nào chiến thắng?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Trong phần tiếp theo của khảo sát, chúng tôi sẽ liên tục cho bạn xem các cặp quảng cáo Clear khác nhau. Đối với từng cặp, chúng tôi muốn biết bạn thích quảng cáo nào hơn. Mỗi cặp là khác nhau, do đó hãy chú ý kỹ các cặp chúng tôi cho bạn xem._AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Vui lòng nhấp vào mũi tên để tiếp tục._AND_lt;/i_AND_gt;_AND_lt;BR /_AND_gt;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="131" name="Q" type="items_list" internal_id="131">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Bạn thích quảng cáo Clear nào hơn?_AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="include_custom">
+			<question id="12001" extralabel="ROUND ROBIN | PAIR 1">_AND_FORCE_ID=12001;roundrobinmaxdiff.asp</question>
+			<answer id="1" order_no="1" autoslide="true"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="120010">_AND_FORCE_ID=120010;combination</question>
+			<answer id="1" order_no="1"></answer>
+			<answer id="2" order_no="2"></answer>
+			<answer id="3" order_no="3"></answer>
+			<answer id="4" order_no="4"></answer>
+			<answer id="5" order_no="5"></answer>
+			<answer id="6" order_no="6"></answer>
+			<answer id="7" order_no="7"></answer>
+			<answer id="8" order_no="8"></answer>
+			<answer id="9" order_no="9"></answer>
+			<answer id="10" order_no="10"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="120011">_AND_FORCE_ID=120011;Answered positive and Negative</question>
+			<answer id="1" order_no="1"></answer>
+			<answer id="2" order_no="2"></answer>
+			<answer id="3" order_no="3"></answer>
+			<answer id="4" order_no="4"></answer>
+			<answer id="5" order_no="5"></answer>
+			<answer id="6" order_no="6"></answer>
+			<answer id="7" order_no="7"></answer>
+			<answer id="8" order_no="8"></answer>
+			<answer id="9" order_no="9"></answer>
+			<answer id="10" order_no="10"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="120012">_AND_FORCE_ID=120012;Positive hidden text</question>
+			<answer id="1" order_no="1"></answer>
+			<answer id="2" order_no="2"></answer>
+			<answer id="3" order_no="3"></answer>
+			<answer id="4" order_no="4"></answer>
+			<answer id="5" order_no="5"></answer>
+			<answer id="6" order_no="6"></answer>
+			<answer id="7" order_no="7"></answer>
+			<answer id="8" order_no="8"></answer>
+			<answer id="9" order_no="9"></answer>
+			<answer id="10" order_no="10"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="120013">_AND_FORCE_ID=120013;negative hidden text</question>
+			<answer id="1" order_no="1"></answer>
+			<answer id="2" order_no="2"></answer>
+			<answer id="3" order_no="3"></answer>
+			<answer id="4" order_no="4"></answer>
+			<answer id="5" order_no="5"></answer>
+			<answer id="6" order_no="6"></answer>
+			<answer id="7" order_no="7"></answer>
+			<answer id="8" order_no="8"></answer>
+			<answer id="9" order_no="9"></answer>
+			<answer id="10" order_no="10"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="120014">_AND_FORCE_ID=120014;Positive hidden</question>
+			<answer id="1" order_no="1">[CELL1]</answer>
+			<answer id="2" order_no="2">[CELL2]</answer>
+			<answer id="3" order_no="3">[CELL3]</answer>
+			<answer id="4" order_no="4">[CELL4]</answer>
+			<answer id="5" order_no="5">[CELL5]</answer>
+			<answer id="6" order_no="6">[CELL6]</answer>
+			<answer id="7" order_no="7">[CELL7]</answer>
+			<answer id="8" order_no="8">[CELL8]</answer>
+			<answer id="9" order_no="9">[CELL9]</answer>
+			<answer id="10" order_no="10">[CELL10]</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="120015">_AND_FORCE_ID=120015;Negative hidden</question>
+			<answer id="1" order_no="1">[CELL1]</answer>
+			<answer id="2" order_no="2">[CELL2]</answer>
+			<answer id="3" order_no="3">[CELL3]</answer>
+			<answer id="4" order_no="4">[CELL4]</answer>
+			<answer id="5" order_no="5">[CELL5]</answer>
+			<answer id="6" order_no="6">[CELL6]</answer>
+			<answer id="7" order_no="7">[CELL7]</answer>
+			<answer id="8" order_no="8">[CELL8]</answer>
+			<answer id="9" order_no="9">[CELL9]</answer>
+			<answer id="10" order_no="10">[CELL10]</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="120016">_AND_FORCE_ID=120016;Positive count</question>
+			<answer id="1" order_no="1">CELL1</answer>
+			<answer id="2" order_no="2">CELL2</answer>
+			<answer id="3" order_no="3">CELL3</answer>
+			<answer id="4" order_no="4">CELL4</answer>
+			<answer id="5" order_no="5">CELL5</answer>
+			<answer id="6" order_no="6">CELL6</answer>
+			<answer id="7" order_no="7">CELL7</answer>
+			<answer id="8" order_no="8">CELL8</answer>
+			<answer id="9" order_no="9">CELL9</answer>
+			<answer id="10" order_no="10">CELL10</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="120017">_AND_FORCE_ID=120017;Negative count</question>
+			<answer id="1" order_no="1">CELL1</answer>
+			<answer id="2" order_no="2">CELL2</answer>
+			<answer id="3" order_no="3">CELL3</answer>
+			<answer id="4" order_no="4">CELL4</answer>
+			<answer id="5" order_no="5">CELL5</answer>
+			<answer id="6" order_no="6">CELL6</answer>
+			<answer id="7" order_no="7">CELL7</answer>
+			<answer id="8" order_no="8">CELL8</answer>
+			<answer id="9" order_no="9">CELL9</answer>
+			<answer id="10" order_no="10">CELL10</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="132" name="Q" type="items_list" internal_id="132">
+		<page_data_item name="Q" type="hidden">
+			<question id="200121" extralabel="Help QID for Random Jump">[INVISIBLE]_AND_FORCE_ID=200121;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="Quote">
+			<question id="44" extralabel="ROUND ROBIN | INTRODUCTION"></question>
+			<answer id="1" order_no="1">_AND_lt;b_AND_gt;Quảng cáo nào chiến thắng?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Trong phần tiếp theo của khảo sát, chúng tôi sẽ liên tục cho bạn xem các cặp quảng cáo Clear khác nhau. Đối với từng cặp, chúng tôi muốn biết bạn thích quảng cáo nào hơn. Mỗi cặp là khác nhau, do đó hãy chú ý kỹ các cặp chúng tôi cho bạn xem._AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Vui lòng nhấp vào mũi tên để tiếp tục._AND_lt;/i_AND_gt;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="133" name="Q" type="items_list" internal_id="133">
+		<page_data_item name="Q" type="hidden_text">
+			<question id="2222" extralabel="Round robin helping variable">_AND_FORCE_ID=2222;Round robin helping variable_AND_RANDOM_5;</question>
+			<answer id="1" order_no="1">images/_AND_INCLUDE_INFO_2_Q20000_1;</answer>
+			<answer id="2" order_no="2">images/_AND_INCLUDE_INFO_2_Q20000_2;</answer>
+			<answer id="3" order_no="3">images/_AND_INCLUDE_INFO_2_Q20000_3;</answer>
+			<answer id="4" order_no="4">images/_AND_INCLUDE_INFO_2_Q20000_4;</answer>
+			<answer id="5" order_no="5">images/_AND_INCLUDE_INFO_2_Q20000_5;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="134" name="Q" type="items_list" internal_id="134">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Bạn thích quảng cáo _AND_lt;FONT color="#0000CC"_AND_gt;Clear_AND_lt;/FONT_AND_gt; nào hơn?_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Nhấp vào quảng cáo bạn thích hơn._AND_lt;/i_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="include_custom">
+			<question id="2001" extralabel="ROUND ROBIN | PAIR 1">_AND_FORCE_ID=2001;roundrobinmaxdiff.asp</question>
+			<answer id="1" order_no="1" autoslide="true"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="20010">_AND_FORCE_ID=20010;Each Task - combination shown/displayed - number of answers porgrammed need to be equal to number of tasks</question>
+			<answer id="1" order_no="1">Task 1</answer>
+			<answer id="2" order_no="2">Task 2</answer>
+			<answer id="3" order_no="3">Task 3</answer>
+			<answer id="4" order_no="4">Task 4</answer>
+			<answer id="5" order_no="5">Task 5</answer>
+			<answer id="6" order_no="6">Task 6</answer>
+			<answer id="7" order_no="7">Task 7</answer>
+			<answer id="8" order_no="8">Task 8</answer>
+			<answer id="9" order_no="9">Task 9</answer>
+			<answer id="10" order_no="10">Task 10</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="20011">_AND_FORCE_ID=20011;Each Task - positive and Negative - program as hidden text and punch will come in the format of positive_AND_lt;BR /_AND_gt;negative - number of answers porgrammed need to be equal to number of tasks</question>
+			<answer id="1" order_no="1">Task 1</answer>
+			<answer id="2" order_no="2">Task 2</answer>
+			<answer id="3" order_no="3">Task 3</answer>
+			<answer id="4" order_no="4">Task 4</answer>
+			<answer id="5" order_no="5">Task 5</answer>
+			<answer id="6" order_no="6">Task 6</answer>
+			<answer id="7" order_no="7">Task 7</answer>
+			<answer id="8" order_no="8">Task 8</answer>
+			<answer id="9" order_no="9">Task 9</answer>
+			<answer id="10" order_no="10">Task 10</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="20012">_AND_FORCE_ID=20012;Each Task - Positive - program as hidden text - number of answers porgrammed need to be equal to number of tasks</question>
+			<answer id="1" order_no="1">Task 1</answer>
+			<answer id="2" order_no="2">Task 2</answer>
+			<answer id="3" order_no="3">Task 3</answer>
+			<answer id="4" order_no="4">Task 4</answer>
+			<answer id="5" order_no="5">Task 5</answer>
+			<answer id="6" order_no="6">Task 6</answer>
+			<answer id="7" order_no="7">Task 7</answer>
+			<answer id="8" order_no="8">Task 8</answer>
+			<answer id="9" order_no="9">Task 9</answer>
+			<answer id="10" order_no="10">Task 10</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="20013">_AND_FORCE_ID=20013;Each Task - negative program as hidden text - number of answers porgrammed need to be equal to number of tasks</question>
+			<answer id="1" order_no="1">Task 1</answer>
+			<answer id="2" order_no="2">Task 2</answer>
+			<answer id="3" order_no="3">Task 3</answer>
+			<answer id="4" order_no="4">Task 4</answer>
+			<answer id="5" order_no="5">Task 5</answer>
+			<answer id="6" order_no="6">Task 6</answer>
+			<answer id="7" order_no="7">Task 7</answer>
+			<answer id="8" order_no="8">Task 8</answer>
+			<answer id="9" order_no="9">Task 9</answer>
+			<answer id="10" order_no="10">Task 10</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="20014">_AND_FORCE_ID=20014;Positive - program as hidden - number of statements need to be programmed</question>
+			<answer id="1" order_no="1">Statement 1</answer>
+			<answer id="2" order_no="2">Statement 2</answer>
+			<answer id="3" order_no="3">Statement 3</answer>
+			<answer id="4" order_no="4">Statement 4</answer>
+			<answer id="5" order_no="5">Statement 5</answer>
+			<answer id="6" order_no="6">Statement 6</answer>
+			<answer id="7" order_no="7">Statement 7</answer>
+			<answer id="8" order_no="8">Statement 8</answer>
+			<answer id="9" order_no="9">Statement 9</answer>
+			<answer id="10" order_no="10">Statement 10</answer>
+			<answer id="11" order_no="11">Statement 11</answer>
+			<answer id="12" order_no="12">Statement 12</answer>
+			<answer id="13" order_no="13">Statement 13</answer>
+			<answer id="14" order_no="14">Statement 14</answer>
+			<answer id="15" order_no="15">Statement 15</answer>
+			<answer id="16" order_no="16">Statement 16</answer>
+			<answer id="17" order_no="17">Statement 17</answer>
+			<answer id="18" order_no="18">Statement 18</answer>
+			<answer id="19" order_no="19">Statement 19</answer>
+			<answer id="20" order_no="20">Statement 20</answer>
+			<answer id="21" order_no="21">Statement 21</answer>
+			<answer id="22" order_no="22">Statement 22</answer>
+			<answer id="23" order_no="23">Statement 23</answer>
+			<answer id="24" order_no="24">Statement 24</answer>
+			<answer id="25" order_no="25">Statement 25</answer>
+			<answer id="26" order_no="26">Statement 26</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="20015">_AND_FORCE_ID=20015;Negative - program as hidden - number of statements need to be programmed</question>
+			<answer id="1" order_no="1">Statement 1</answer>
+			<answer id="2" order_no="2">Statement 2</answer>
+			<answer id="3" order_no="3">Statement 3</answer>
+			<answer id="4" order_no="4">Statement 4</answer>
+			<answer id="5" order_no="5">Statement 5</answer>
+			<answer id="6" order_no="6">Statement 6</answer>
+			<answer id="7" order_no="7">Statement 7</answer>
+			<answer id="8" order_no="8">Statement 8</answer>
+			<answer id="9" order_no="9">Statement 9</answer>
+			<answer id="10" order_no="10">Statement 10</answer>
+			<answer id="11" order_no="11">Statement 11</answer>
+			<answer id="12" order_no="12">Statement 12</answer>
+			<answer id="13" order_no="13">Statement 13</answer>
+			<answer id="14" order_no="14">Statement 14</answer>
+			<answer id="15" order_no="15">Statement 15</answer>
+			<answer id="16" order_no="16">Statement 16</answer>
+			<answer id="17" order_no="17">Statement 17</answer>
+			<answer id="18" order_no="18">Statement 18</answer>
+			<answer id="19" order_no="19">Statement 19</answer>
+			<answer id="20" order_no="20">Statement 20</answer>
+			<answer id="21" order_no="21">Statement 21</answer>
+			<answer id="22" order_no="22">Statement 22</answer>
+			<answer id="23" order_no="23">Statement 23</answer>
+			<answer id="24" order_no="24">Statement 24</answer>
+			<answer id="25" order_no="25">Statement 25</answer>
+			<answer id="26" order_no="26">Statement 26</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="20016">_AND_FORCE_ID=20016;Each statement number of times Positive count - program has hidden text - number of answers should be equal to number of statements</question>
+			<answer id="1" order_no="1">Statement 1</answer>
+			<answer id="2" order_no="2">Statement 2</answer>
+			<answer id="3" order_no="3">Statement 3</answer>
+			<answer id="4" order_no="4">Statement 4</answer>
+			<answer id="5" order_no="5">Statement 5</answer>
+			<answer id="6" order_no="6">Statement 6</answer>
+			<answer id="7" order_no="7">Statement 7</answer>
+			<answer id="8" order_no="8">Statement 8</answer>
+			<answer id="9" order_no="9">Statement 9</answer>
+			<answer id="10" order_no="10">Statement 10</answer>
+			<answer id="11" order_no="11">Statement 11</answer>
+			<answer id="12" order_no="12">Statement 12</answer>
+			<answer id="13" order_no="13">Statement 13</answer>
+			<answer id="14" order_no="14">Statement 14</answer>
+			<answer id="15" order_no="15">Statement 15</answer>
+			<answer id="16" order_no="16">Statement 16</answer>
+			<answer id="17" order_no="17">Statement 17</answer>
+			<answer id="18" order_no="18">Statement 18</answer>
+			<answer id="19" order_no="19">Statement 19</answer>
+			<answer id="20" order_no="20">Statement 20</answer>
+			<answer id="21" order_no="21">Statement 21</answer>
+			<answer id="22" order_no="22">Statement 22</answer>
+			<answer id="23" order_no="23">Statement 23</answer>
+			<answer id="24" order_no="24">Statement 24</answer>
+			<answer id="25" order_no="25">Statement 25</answer>
+			<answer id="26" order_no="26">Statement 26</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="20017">_AND_FORCE_ID=20017;Each statement number of times Negative count - program as hidden text - number of answers should be equal to number of statements</question>
+			<answer id="1" order_no="1">Statement 1</answer>
+			<answer id="2" order_no="2">Statement 2</answer>
+			<answer id="3" order_no="3">Statement 3</answer>
+			<answer id="4" order_no="4">Statement 4</answer>
+			<answer id="5" order_no="5">Statement 5</answer>
+			<answer id="6" order_no="6">Statement 6</answer>
+			<answer id="7" order_no="7">Statement 7</answer>
+			<answer id="8" order_no="8">Statement 8</answer>
+			<answer id="9" order_no="9">Statement 9</answer>
+			<answer id="10" order_no="10">Statement 10</answer>
+			<answer id="11" order_no="11">Statement 11</answer>
+			<answer id="12" order_no="12">Statement 12</answer>
+			<answer id="13" order_no="13">Statement 13</answer>
+			<answer id="14" order_no="14">Statement 14</answer>
+			<answer id="15" order_no="15">Statement 15</answer>
+			<answer id="16" order_no="16">Statement 16</answer>
+			<answer id="17" order_no="17">Statement 17</answer>
+			<answer id="18" order_no="18">Statement 18</answer>
+			<answer id="19" order_no="19">Statement 19</answer>
+			<answer id="20" order_no="20">Statement 20</answer>
+			<answer id="21" order_no="21">Statement 21</answer>
+			<answer id="22" order_no="22">Statement 22</answer>
+			<answer id="23" order_no="23">Statement 23</answer>
+			<answer id="24" order_no="24">Statement 24</answer>
+			<answer id="25" order_no="25">Statement 25</answer>
+			<answer id="26" order_no="26">Statement 26</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="20018" extralabel="Positive selected variable">_AND_FORCE_ID=20018; Statement with highest number of times Positive count - program as hidden - number of answers should be equal to number of statements</question>
+			<answer id="1" order_no="1">Statement 1_AND_ANSWER_INFO_1_clientads/TG1_1_D.png;</answer>
+			<answer id="2" order_no="2">Statement 2_AND_ANSWER_INFO_1_clientads/TG1_2_D.png;</answer>
+			<answer id="3" order_no="3">Statement 3_AND_ANSWER_INFO_1_clientads/desktop3.png;</answer>
+			<answer id="4" order_no="4">Statement 4_AND_ANSWER_INFO_1_clientads/TG1_4_D.png;</answer>
+			<answer id="5" order_no="5">Statement 5_AND_ANSWER_INFO_1_clientads/TG1_5_D.png;</answer>
+			<answer id="6" order_no="6">Statement 6_AND_ANSWER_INFO_1_clientads/TG2_1_D.png;</answer>
+			<answer id="7" order_no="7">Statement 7_AND_ANSWER_INFO_1_clientads/TG2_2_D.png;</answer>
+			<answer id="8" order_no="8">Statement 8_AND_ANSWER_INFO_1_clientads/TG2_3_D.png;</answer>
+			<answer id="9" order_no="9">Statement 9_AND_ANSWER_INFO_1_clientads/TG2_4_D.png;</answer>
+			<answer id="10" order_no="10">Statement 10_AND_ANSWER_INFO_1_clientads/TG3_1_D.png;</answer>
+			<answer id="11" order_no="11">Statement 11_AND_ANSWER_INFO_1_clientads/TG3_2_D.png;</answer>
+			<answer id="12" order_no="12">Statement 12_AND_ANSWER_INFO_1_clientads/TG3_3_D.png;</answer>
+			<answer id="13" order_no="13">Statement 13_AND_ANSWER_INFO_1_clientads/TG3_4_D.png;</answer>
+			<answer id="14" order_no="14">Statement 14_AND_ANSWER_INFO_1_clientads/mobile/TG1_1_m_r.png;</answer>
+			<answer id="15" order_no="15">Statement 15_AND_ANSWER_INFO_1_clientads/mobile/TG1_2_m_r.png;</answer>
+			<answer id="16" order_no="16">Statement 16_AND_ANSWER_INFO_1_clientads/mobile/mobile3.png;</answer>
+			<answer id="17" order_no="17">Statement 17_AND_ANSWER_INFO_1_clientads/mobile/TG1_4_m_r.png;</answer>
+			<answer id="18" order_no="18">Statement 18_AND_ANSWER_INFO_1_clientads/mobile/TG1_5_m_r.png;</answer>
+			<answer id="19" order_no="19">Statement 19_AND_ANSWER_INFO_1_clientads/mobile/TG2_1_m_r.png;</answer>
+			<answer id="20" order_no="20">Statement 20_AND_ANSWER_INFO_1_clientads/mobile/TG2_2_m_r.png;</answer>
+			<answer id="21" order_no="21">Statement 21;_AND_ANSWER_INFO_1_clientads/mobile/TG2_3_m_r.png;</answer>
+			<answer id="22" order_no="22">Statement 22;_AND_ANSWER_INFO_1_clientads/mobile/TG2_4_m_r.png;</answer>
+			<answer id="23" order_no="23">Statement 23_AND_ANSWER_INFO_1_clientads/mobile/TG3_1_m_r.png;</answer>
+			<answer id="24" order_no="24">Statement 24_AND_ANSWER_INFO_1_clientads/mobile/TG3_2_m_r.png;</answer>
+			<answer id="25" order_no="25">Statement 25_AND_ANSWER_INFO_1_clientads/mobile/TG3_3_m_r.png;</answer>
+			<answer id="26" order_no="26">Statement 26_AND_ANSWER_INFO_1_clientads/mobile/TG3_4_m_r.png;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden">
+			<question id="20019" extralabel="negative selected variable">_AND_FORCE_ID=20019;Statement with highest number of times Negative count - program as hidden - number of answers should be equal to number of statements</question>
+			<answer id="1" order_no="1">Statement 1_AND_ANSWER_INFO_1_clientads/TG1_1_D.png;</answer>
+			<answer id="2" order_no="2">Statement 2_AND_ANSWER_INFO_1_clientads/TG1_2_D.png;</answer>
+			<answer id="3" order_no="3">Statement 3_AND_ANSWER_INFO_1_clientads/desktop3.png;</answer>
+			<answer id="4" order_no="4">Statement 4_AND_ANSWER_INFO_1_clientads/TG1_4_D.png;</answer>
+			<answer id="5" order_no="5">Statement 5_AND_ANSWER_INFO_1_clientads/TG1_5_D.png;</answer>
+			<answer id="6" order_no="6">Statement 6_AND_ANSWER_INFO_1_clientads/TG2_1_D.png;</answer>
+			<answer id="7" order_no="7">Statement 7_AND_ANSWER_INFO_1_clientads/TG2_2_D.png;</answer>
+			<answer id="8" order_no="8">Statement 8_AND_ANSWER_INFO_1_clientads/TG2_3_D.png;</answer>
+			<answer id="9" order_no="9">Statement 9_AND_ANSWER_INFO_1_clientads/TG2_4_D.png;</answer>
+			<answer id="10" order_no="10">Statement 10_AND_ANSWER_INFO_1_clientads/TG3_1_D.png;</answer>
+			<answer id="11" order_no="11">Statement 11_AND_ANSWER_INFO_1_clientads/TG3_2_D.png;</answer>
+			<answer id="12" order_no="12">Statement 12_AND_ANSWER_INFO_1_clientads/TG3_3_D.png;</answer>
+			<answer id="13" order_no="13">Statement 13_AND_ANSWER_INFO_1_clientads/TG3_4_D.png;</answer>
+			<answer id="14" order_no="14">Statement 14_AND_ANSWER_INFO_1_clientads/mobile/TG1_1_m_r.png;</answer>
+			<answer id="15" order_no="15">Statement 15_AND_ANSWER_INFO_1_clientads/mobile/TG1_2_m_r.png;</answer>
+			<answer id="16" order_no="16">Statement 16_AND_ANSWER_INFO_1_clientads/mobile/mobile3.png;</answer>
+			<answer id="17" order_no="17">Statement 17_AND_ANSWER_INFO_1_clientads/mobile/TG1_4_m_r.png;</answer>
+			<answer id="18" order_no="18">Statement 18_AND_ANSWER_INFO_1_clientads/mobile/TG1_5_m_r.png;</answer>
+			<answer id="19" order_no="19">Statement 19_AND_ANSWER_INFO_1_clientads/mobile/TG2_1_m_r.png;</answer>
+			<answer id="20" order_no="20">Statement 20_AND_ANSWER_INFO_1_clientads/mobile/TG2_2_m_r.png;</answer>
+			<answer id="21" order_no="21">Statement 21_AND_ANSWER_INFO_1_clientads/mobile/TG2_3_m_r.png;</answer>
+			<answer id="22" order_no="22">Statement 22_AND_ANSWER_INFO_1_clientads/mobile/TG2_4_m_r.png;</answer>
+			<answer id="23" order_no="23">Statement 23_AND_ANSWER_INFO_1_clientads/mobile/TG3_1_m_r.png;</answer>
+			<answer id="24" order_no="24">Statement 24_AND_ANSWER_INFO_1_clientads/mobile/TG3_2_m_r.png;</answer>
+			<answer id="25" order_no="25">Statement 25_AND_ANSWER_INFO_1_clientads/mobile/TG3_3_m_r.png;</answer>
+			<answer id="26" order_no="26">Statement 26_AND_ANSWER_INFO_1_clientads/mobile/TG3_4_m_r.png;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="135" name="Q" type="items_list" internal_id="135">
+		<page_data_item name="Q" type="hidden_text">
+			<question id="25501">_AND_FORCE_ID=25501; positive statments </question>
+			<answer id="1" order_no="1"></answer>
+			<answer id="2" order_no="2"></answer>
+			<answer id="3" order_no="3"></answer>
+			<answer id="4" order_no="4"></answer>
+			<answer id="5" order_no="5"></answer>
+			<answer id="6" order_no="6"></answer>
+			<answer id="7" order_no="7"></answer>
+			<answer id="8" order_no="8"></answer>
+			<answer id="9" order_no="9"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="8790">_AND_FORCE_ID=8790;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="8791">_AND_FORCE_ID=8791;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="8792">_AND_FORCE_ID=8792;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="8793">_AND_FORCE_ID=8793;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="8794">_AND_FORCE_ID=8794;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="8795">_AND_FORCE_ID=8795;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="8796">_AND_FORCE_ID=8796;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="8797">_AND_FORCE_ID=8797;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="8798">_AND_FORCE_ID=8798;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="8799">_AND_FORCE_ID=8799;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="136" name="Q" type="items_list" internal_id="136">
+		<page_data_item name="Q" type="Quote">
+			<question id="45" extralabel="OPTIMIZATION | INTRODUCTION"></question>
+			<answer id="1" order_no="1">_AND_lt;b_AND_gt;Cảm ơn bạn!_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Trong phần cuối cùng của khảo sát chúng tôi sẽ cho bạn xem lại các nội dung quảng cáo. Chúng tôi muốn hiểu thêm về lý do tại sao bạn thích/không thích quảng cáo đó và một số phát biểu liên quan đến quảng cáo đó. _AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Vui lòng nhấp vào mũi tên để tiếp tục._AND_lt;/i_AND_gt;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="30001" extralabel="Positive selected variable">_AND_FORCE_ID=30001;Positive selected variable</question>
+			<answer id="1" order_no="1">CELL1_AND_lt;BR /_AND_gt;_AND_SELECTED_Q20018_A1;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_new/S1_Hair_Scalp_Concerned_Consideration_6s_sb_111;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_S1_Hair_Scalp_Concerned_Consideration_6s;</answer>
+			<answer id="2" order_no="2">CELL2_AND_lt;BR /_AND_gt;_AND_SELECTED_Q20018_A2;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_new/S2_Fitness_Enthusiasts_Consideration_6s_sb_222;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_S2_Fitness_Enthusiasts_Consideration_6s;</answer>
+			<answer id="3" order_no="3">CELL3_AND_lt;BR /_AND_gt;_AND_SELECTED_Q20018_A3;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_new/S3_Fashion_Beauty_Consideration_6s_sb_333;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_S3_Fashion_Beauty_Consideration_6s;</answer>
+			<answer id="4" order_no="4">CELL4_AND_lt;BR /_AND_gt;_AND_SELECTED_Q20018_A4;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_new/S4_Commute_Consideration_6s_sb_444;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_S4_Commute_Consideration_6s;</answer>
+			<answer id="5" order_no="5">CELL5_AND_SELECTED_Q20018_A5;_AND_ANSWER_INFO_1_clear_BENCHMARK_sb_555;_AND_ANSWER_INFO_2_clear_BENCHMARK;</answer>
+			<answer id="6" order_no="6">[INVISIBLE]CELL6_AND_SELECTED_Q2001_A6;_AND_ANSWER_INFO_1_client/cell6;_AND_ANSWER_INFO_3_222;_AND_ANSWER_INFO_4_380;</answer>
+			<answer id="7" order_no="7">[INVISIBLE]CELL7_AND_SELECTED_Q2001_A7;_AND_ANSWER_INFO_1_client/cell7;_AND_ANSWER_INFO_3_217;_AND_ANSWER_INFO_4_380;</answer>
+			<answer id="8" order_no="8">[INVISIBLE]CELL8_AND_SELECTED_Q2001_A8;_AND_ANSWER_INFO_1_client/cell8;_AND_ANSWER_INFO_3_218;_AND_ANSWER_INFO_4_380;</answer>
+			<answer id="9" order_no="9">[INVISIBLE]CELL9_AND_SELECTED_Q2001_A9;_AND_ANSWER_INFO_1_client/cell9;_AND_ANSWER_INFO_3_211;_AND_ANSWER_INFO_4_380;</answer>
+			<answer id="10" order_no="10">[INVISIBLE]CELL10_AND_SELECTED_Q2001_A10;_AND_ANSWER_INFO_1_client/cell10;_AND_ANSWER_INFO_3_207;_AND_ANSWER_INFO_4_380;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="hidden_text">
+			<question id="3100" extralabel="Negative selected variable">_AND_FORCE_ID=3100;Negative selected variable</question>
+			<answer id="1" order_no="1">CELL1_AND_lt;BR /_AND_gt;_AND_SELECTED_Q20019_A1;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_new/S1_Hair_Scalp_Concerned_Consideration_6s_sb_111;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_S1_Hair_Scalp_Concerned_Consideration_6s;</answer>
+			<answer id="2" order_no="2">CELL2_AND_lt;BR /_AND_gt;_AND_SELECTED_Q20019_A2;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_new/S2_Fitness_Enthusiasts_Consideration_6s_sb_222;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_S2_Fitness_Enthusiasts_Consideration_6s;</answer>
+			<answer id="3" order_no="3">CELL3_AND_lt;BR /_AND_gt;_AND_SELECTED_Q20019_A3;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_new/S3_Fashion_Beauty_Consideration_6s_sb_333;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_S3_Fashion_Beauty_Consideration_6s;</answer>
+			<answer id="4" order_no="4">CELL4_AND_lt;BR /_AND_gt;_AND_SELECTED_Q20019_A4;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_new/S4_Commute_Consideration_6s_sb_444;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_S4_Commute_Consideration_6s;</answer>
+			<answer id="5" order_no="5">CELL5_AND_lt;BR /_AND_gt;_AND_SELECTED_Q20019_A5;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_1_new/clear_BENCHMARK_sb_555;_AND_lt;BR /_AND_gt;_AND_ANSWER_INFO_2_clear_BENCHMARK;</answer>
+			<answer id="6" order_no="6">[INVISIBLE]CELL6_AND_SELECTED_Q20001_A6;_AND_ANSWER_INFO_1_cell6;_AND_ANSWER_INFO_3_222;_AND_ANSWER_INFO_4_380;</answer>
+			<answer id="7" order_no="7">[INVISIBLE]CELL7_AND_SELECTED_Q20001_A7;_AND_ANSWER_INFO_1_cell7;_AND_ANSWER_INFO_3_217;_AND_ANSWER_INFO_4_380;</answer>
+			<answer id="8" order_no="8">[INVISIBLE]CELL8_AND_SELECTED_Q20001_A8;_AND_ANSWER_INFO_1_cell8;_AND_ANSWER_INFO_3_218;_AND_ANSWER_INFO_4_380;</answer>
+			<answer id="9" order_no="9">[INVISIBLE]CELL9_AND_SELECTED_Q20001_A9;_AND_ANSWER_INFO_1_cell9;_AND_ANSWER_INFO_3_211;_AND_ANSWER_INFO_4_380;</answer>
+			<answer id="10" order_no="10">[INVISIBLE]CELL10_AND_SELECTED_Q20001_A10;_AND_ANSWER_INFO_1_cell10;_AND_ANSWER_INFO_3_207;_AND_ANSWER_INFO_4_380;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="137" name="Q" type="items_list" internal_id="137">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Ở bên dưới bạn sẽ thấy quảng cáo Clear mà bạn thích nhất._AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/_AND_INCLUDE_INFO_1_Q30001_1;.jpg" border="0" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="textblock">
+			<question id="2501" extralabel="OPTIMIZATION | CREATIVE LIKED">_AND_FORCE_ID=2501;_AND_lt;b_AND_gt;Ở bên dưới bạn sẽ thấy quảng cáo Clear mà bạn thích nhất._AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Bạn thích gì về quảng cáo này?_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Trường hợp này có thể là bất kỳ thứ gì – hình ảnh chính, lời kêu gọi hành động, hoặc nhân vật/người mẫu trong quảng cáo._AND_lt;/i_AND_gt;</question>
+			<answer id="1" order_no="1" obligated="true"></answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="138" name="Q" type="items_list" internal_id="138">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Ở bên dưới bạn sẽ thấy quảng cáo Clear mà ít bạn thích nhất._AND_lt;/b_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;center_AND_gt;_AND_lt;img src="./images/_AND_INCLUDE_INFO_1_Q3100_1;.jpg"_AND_nbsp;_AND_nbsp;border="0" /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="textblock">
+			<question id="25010" extralabel="OPTIMIZATION | CREATIVE DISLIKED">_AND_FORCE_ID=25010;_AND_lt;b_AND_gt;Ở bên dưới bạn sẽ thấy quảng cáo Clear mà ít bạn thích nhất._AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;Bạn không thích gì về quảng cáo này?_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Trường hợp này có thể là bất kỳ thứ gì – hình ảnh chính, lời kêu gọi hành động, hoặc nhân vật/người mẫu trong quảng cáo._AND_lt;/i_AND_gt;</question>
+			<answer id="1" order_no="1" obligated="true"></answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="139" name="Q" type="items_list" internal_id="139">
+		<page_data_item name="Q" type="ImagePickerAdvanced">
+			<question id="114001" extralabel="AVATAR_SELECTION">_AND_FORCE_ID=114001;_AND_lt;b_AND_gt;Vui lòng chọn hình ảnh bạn cảm thấy là mô tả chính xác nhất về bạn cho câu hỏi tiếp theo._AND_lt;/b_AND_gt;</question>
+			<answer id="1" order_no="1" extralabel="F01" min="1" max="1" decimal="0" alert="Bạn đã chọn quá nhiều câu trả lời">/avatar/F01.png _AND_ANSWER_INFO_1_avatar/F01.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="2" order_no="2" extralabel="F02" min="1" max="1" decimal="0">/avatar/F02.png _AND_ANSWER_INFO_1_avatar/F02.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="3" order_no="3" extralabel="F03" min="1" max="1" decimal="0">/avatar/F03.png _AND_ANSWER_INFO_1_avatar/F03.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="4" order_no="4" extralabel="F04" min="1" max="1" decimal="0">/avatar/F04.png _AND_ANSWER_INFO_1_avatar/F04.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="5" order_no="5" extralabel="F05" min="1" max="1" decimal="0">/avatar/F05.png _AND_ANSWER_INFO_1_avatar/F05.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="6" order_no="6" extralabel="F06" min="1" max="1" decimal="0">/avatar/F06.png _AND_ANSWER_INFO_1_avatar/F06.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="7" order_no="7" extralabel="F07" min="1" max="1" decimal="0">/avatar/F07.png _AND_ANSWER_INFO_1_avatar/F07.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="8" order_no="8" extralabel="F08" min="1" max="1" decimal="0">/avatar/F08.png _AND_ANSWER_INFO_1_avatar/F08.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="9" order_no="9" extralabel="F09" min="1" max="1" decimal="0">/avatar/F09.png _AND_ANSWER_INFO_1_avatar/F09.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="10" order_no="10" extralabel="F10" min="1" max="1" decimal="0">/avatar/F10.png _AND_ANSWER_INFO_1_avatar/F10.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="11" order_no="11" extralabel="F11" min="1" max="1" decimal="0">/avatar/F11.png _AND_ANSWER_INFO_1_avatar/F11.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="12" order_no="12" extralabel="F12" min="1" max="1" decimal="0">/avatar/F12.png _AND_ANSWER_INFO_1_avatar/F12.png;_AND_EXCLUDED_Q8000_NA2;_AND_ANSWER_INFO_2_bà;</answer>
+			<answer id="13" order_no="13" extralabel="M01" min="1" max="1" decimal="0">/avatar/M01.png _AND_ANSWER_INFO_1_avatar/M01.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="14" order_no="14" extralabel="M02" min="1" max="1" decimal="0">/avatar/M02.png _AND_ANSWER_INFO_1_avatar/M02.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="15" order_no="15" extralabel="M03" min="1" max="1" decimal="0">/avatar/M03.png _AND_ANSWER_INFO_1_avatar/M03.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="16" order_no="16" extralabel="M04" min="1" max="1" decimal="0">/avatar/M04.png _AND_ANSWER_INFO_1_avatar/M04.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="17" order_no="17" extralabel="M05" min="1" max="1" decimal="0">/avatar/M05.png _AND_ANSWER_INFO_1_avatar/M05.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="18" order_no="18" extralabel="M06" min="1" max="1" decimal="0">/avatar/M06.png _AND_ANSWER_INFO_1_avatar/M06.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="19" order_no="19" extralabel="M07" min="1" max="1" decimal="0">/avatar/M07.png _AND_ANSWER_INFO_1_avatar/M07.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="20" order_no="20" extralabel="M08" min="1" max="1" decimal="0">/avatar/M08.png _AND_ANSWER_INFO_1_avatar/M08.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="21" order_no="21" extralabel="M09" min="1" max="1" decimal="0">/avatar/M09.png _AND_ANSWER_INFO_1_avatar/M09.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="22" order_no="22" extralabel="M10" min="1" max="1" decimal="0">/avatar/M10.png _AND_ANSWER_INFO_1_avatar/M10.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="23" order_no="23" extralabel="M11" min="1" max="1" decimal="0">/avatar/M11.png _AND_ANSWER_INFO_1_avatar/M11.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+			<answer id="24" order_no="24" extralabel="M12" min="1" max="1" decimal="0">/avatar/M12.png _AND_ANSWER_INFO_1_avatar/M12.png;_AND_EXCLUDED_Q8000_NA1;_AND_ANSWER_INFO_2_ông;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="140" name="Q" type="items_list" internal_id="140">
+		<page_data_item name="Q" type="text">
+			<header extralabel="AVATAR_PERSONIFY">Bây giờ hãy tưởng tượng rằng người đó _AND_INCLUDE_INFO_2_Q114001_1; lúc này là _AND_lt;b_AND_gt;BẠN_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;center_AND_gt;_AND_lt;img src="./images/_AND_INCLUDE_INFO_1_Q114001_1;" width='170px' height='170px' /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="141" name="Q" type="items_list" internal_id="141">
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;b_AND_gt;Trên trang này bạn sẽ thấy quảng cáo bạn thích nhất. _AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt;Vui lòng bật âm thanh trên máy tính. Nhấp vào nút bắt đầu để phát nội dung quảng cáo._AND_lt;/i_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="video_player">
+			<question id="50031" extralabel="VIDEO">_AND_FORCE_ID=50031;</question>
+			<answer id="1" order_no="1">./images/_AND_INCLUDE_INFO_2_Q30001_1;</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="142" name="Q" type="items_list" internal_id="142">
+		<page_data_item name="Q" type="text">
+			<header extralabel="Clear">_AND_lt;center_AND_gt;_AND_lt;b_AND_gt;Sử dụng hình đại diện và thanh trượt bên dưới, vui lòng cho biết cảm xúc của bạn với quảng cáo này._AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;BR /_AND_gt;_AND_lt;img src="./images/_AND_INCLUDE_INFO_1_Q30001_1;.jpg" border='0' align='middle' /_AND_gt;_AND_lt;/center_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="emo_slider">
+			<question id="50001" extralabel="Clear">_AND_FORCE_ID=50001;</question>
+			<answer id="1" order_no="1">images/_AND_INCLUDE_INFO_1_Q114001_1;</answer>
+			<answer id="2" order_no="2">images/collages/1_P_Joy_Excitement.png</answer>
+			<question id="50002" extralabel="Clear">_AND_FORCE_ID=50002;</question>
+			<answer id="1" order_no="1" min="1" max="3" decimal="0">images/_AND_INCLUDE_INFO_1_Q114001_1;</answer>
+			<answer id="2" order_no="2">images/collages/2_P_Trust_Admiration.png</answer>
+			<question id="50003" extralabel="Clear">_AND_FORCE_ID=50003;</question>
+			<answer id="1" order_no="1" min="1" max="3" decimal="0">images/_AND_INCLUDE_INFO_1_Q114001_1;</answer>
+			<answer id="2" order_no="2">images/collages/3_P_Surprise_Amazement.png</answer>
+			<question id="50004" extralabel="Clear">_AND_FORCE_ID=50004;</question>
+			<answer id="1" order_no="1" min="1" max="3" decimal="0">images/_AND_INCLUDE_INFO_1_Q114001_1;</answer>
+			<answer id="2" order_no="2">images/collages/4_P_Love_Passion.png</answer>
+			<question id="50005" extralabel="Clear">_AND_FORCE_ID=50005;</question>
+			<answer id="1" order_no="1" min="1" max="3" decimal="0">images/_AND_INCLUDE_INFO_1_Q114001_1;</answer>
+			<answer id="2" order_no="2">images/collages/5_N_Fear_Terror.png</answer>
+			<question id="50006" extralabel="Clear">_AND_FORCE_ID=50006;</question>
+			<answer id="1" order_no="1" min="1" max="3" decimal="0">images/_AND_INCLUDE_INFO_1_Q114001_1;</answer>
+			<answer id="2" order_no="2">images/collages/6_N_Sadness_Grief.png</answer>
+			<question id="50007" extralabel="Clear">_AND_FORCE_ID=50007;</question>
+			<answer id="1" order_no="1" min="1" max="3" decimal="0">images/_AND_INCLUDE_INFO_1_Q114001_1;</answer>
+			<answer id="2" order_no="2">images/collages/7_N_Disgust_Loathing.png</answer>
+			<question id="50008" extralabel="Clear">_AND_FORCE_ID=50008;</question>
+			<answer id="1" order_no="1" min="1" max="3" decimal="0">images/_AND_INCLUDE_INFO_1_Q114001_1;</answer>
+			<answer id="2" order_no="2">images/collages/8_N_Anger_Rage.png</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="143" name="Q" type="items_list" internal_id="143">
+		<page_data_item name="Q" type="radio">
+			<question id="8002" extralabel="BRAND USER ">_AND_FORCE_ID=8002;_AND_lt;b_AND_gt;Bạn thường xuyên sử dụng thương hiệu dầu gội nào sau đây _AND_lt;u_AND_gt;nhất_AND_lt;/u_AND_gt;?_AND_lt;/b_AND_gt;_AND_RANDOMISE_ANSWERS;</question>
+			<answer id="1" order_no="1">Clear</answer>
+			<answer id="2" order_no="2">Head _AND_amp; Shoulders</answer>
+			<answer id="3" order_no="3">Sunsilk</answer>
+			<answer id="4" order_no="4">Pantene</answer>
+			<answer id="5" order_no="5">Dove</answer>
+			<answer id="6" order_no="6">Rejoice</answer>
+			<answer id="7" order_no="7">Lifebuoy</answer>
+			<answer id="8" order_no="8">Thai Duong</answer>
+			<answer id="9" order_no="9">Enchanteur</answer>
+			<answer id="10" order_no="10">Palmolive</answer>
+			<answer id="11" order_no="11">Ramus</answer>
+			<answer id="12" order_no="12" notRandomised="true">Khác</answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="144" name="Q" type="items_list" internal_id="144">
+		<page_data_item name="Q" type="hidden">
+			<question id="50891" extralabel="Shampoo Users BUMO">_AND_FORCE_ID=50891;Shampoo Users BUMO</question>
+			<answer id="1" order_no="1">Brand users _AND_SELECTED_Q8002_A1;</answer>
+			<answer id="2" order_no="2">Brand non-users _AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A2;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A3;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A4;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A5;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A6;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A7;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A8;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A9;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A10;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A11;_AND_lt;BR /_AND_gt;_AND_SELECTED_Q8002_A12;</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_AUTOSUBMIT;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="145" name="Q" type="items_list" internal_id="145">
+		<page_data_item name="Q" type="text">
+			<header extralabel="CLOSING |INTRODUCTION">_AND_lt;b_AND_gt;Cảm ơn bạn rất nhiều!_AND_lt;/b_AND_gt;_AND_lt;BR /_AND_gt;</header>
+		</page_data_item>
+		<page_data_item name="Q" type="textblock">
+			<question id="3001" extralabel="CLOSING |REVIEW">_AND_FORCE_ID=3001;_AND_lt;b_AND_gt;Bạn có nhận xét nào về bảng câu hỏi này không?_AND_lt;/b_AND_gt;</question>
+			<answer id="1" order_no="1"></answer>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="146" name="Q" type="items_list" internal_id="146">
+		<page_data_item name="Q" type="text">
+			<header extralabel="CLOSING |COMPLETE">_AND_lt;i_AND_gt;Nhấp vào mũi tên để gửi câu trả lời của bạn._AND_lt;/i_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="147" name="Q" type="items_list" internal_id="147">
+		<page_data_item name="Q" type="attentiveness_lowquality_redirects">
+			<question id="46">Attentiveness Lowquality Redirects</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/unqualify?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=s">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGdg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/EarlyScreenOut?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+		<page_data_item name="Q" type="text">
+			<header>_AND_lt;BR /_AND_gt;_AND_lt;i_AND_gt; Vui lòng nhấp vào mũi tên để tiếp tục. _AND_lt;/ i_AND_gt;</header>
+		</page_data_item>
+	</page_data>
+	<page_data order_no="148" name="Q" type="items_list" internal_id="148">
+		<page_data_item name="Q" type="Complete-Multisource">
+			<question id="47">Complete multisource</question>
+			<answer id="1" order_no="1" URL="http://www.vinaresearch.net/public/rental/complete?vnrsid=_AND_EMAIL_ADDRESS;">Vina</answer>
+			<answer id="2" order_no="2" URL="https://panel.aipsurveys.com/survey/Passback.do?pid=b9fbe831004b9ee2_AND_amp;uid=_AND_EMAIL_ADDRESS;_AND_amp;st=c">Rakuten</answer>
+			<answer id="3" order_no="3" URL="http://www.ipanelonline.com/receive.html?code=AHMBbwZhAzgHVgIzATAAMAE3BjADNwc0AiUBcwB3ATsGZg==_AND_amp;ipuid=_AND_EMAIL_ADDRESS;">IPO</answer>
+			<answer id="4" order_no="4" URL="https://s.cint.com/Survey/Complete?ProjectToken=a7eb1ce4-3ea9-420d-bb20-28eea0dc1ee8">CINT</answer>
+		</page_data_item>
+	</page_data>
+</xml>
